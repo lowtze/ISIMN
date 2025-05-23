@@ -24,6 +24,41 @@ cover-image: "../images/cover.png"
 - [Capitolo tredici (13): L'INCIDENTE](#capitolo-tredici-13-lincidente)
 - [Capitolo quattordici (14): I REGALI DI BRUNO](#capitolo-quattordici-14-i-regali-di-bruno)
 - [Capitolo quindici (15): BRUNO PUÒ ALZARSI](#capitolo-quindici-15-bruno-può-alzarsi)
+- [Capitolo sedici (16): DOMANI ANDIAMO A PISA](#capitolo-sedici-16-domani-andiamo-a-pisa)
+- [Capitolo diciassette (17): IL SOGNO DI BRUNO](#capitolo-diciassette-17-il-sogno-di-bruno)
+- [Capitolo diciotto (18): IL VIAGGIO](#capitolo-diciotto-18-il-viaggio)
+- [Capitolo diciannove (19): UN BAGNO CHE FINISCE MALE](#capitolo-diciannove-19-un-bagno-che-finisce-male)
+- [Capitolo venti (20): BRAVO CESARE!](#capitolo-venti-20-bravo-cesare)
+- [Capitolo ventuno (21): ANNIBALE VESPUCCI](#capitolo-ventuno-21-annibale-vespucci)
+- [Capitolo ventidue (22): NAPOLI](#capitolo-ventidue-22-napoli)
+- [Capitolo ventitré (23): IL VESUVIO E POMPEI](#capitolo-ventitré-23-il-vesuvio-e-pompei)
+- [Capitolo ventiquattro (24):](#capitolo-ventiquattro-24)
+- [Capitolo venticinque (25):](#capitolo-venticinque-25)
+- [Capitolo ventisei (26):](#capitolo-ventisei-26)
+- [Capitolo ventisette (27):](#capitolo-ventisette-27)
+- [Capitolo ventotto (28):](#capitolo-ventotto-28)
+- [Capitolo ventinove (29):](#capitolo-ventinove-29)
+- [Capitolo trenta (30):](#capitolo-trenta-30)
+- [Capitolo trentuno (31):](#capitolo-trentuno-31)
+- [Capitolo trentadue (32):](#capitolo-trentadue-32)
+- [Capitolo trentatré (33):](#capitolo-trentatré-33)
+- [Capitolo trentaquattro (34):](#capitolo-trentaquattro-34)
+- [Capitolo trentacinque (35):](#capitolo-trentacinque-35)
+- [Capitolo trentasei (36):](#capitolo-trentasei-36)
+- [Capitolo trentasette (37):](#capitolo-trentasette-37)
+- [Capitolo trentotto (38):](#capitolo-trentotto-38)
+- [Capitolo trentanove (39):](#capitolo-trentanove-39)
+- [Capitolo quaranta (40):](#capitolo-quaranta-40)
+- [Capitolo quarantuno (41):](#capitolo-quarantuno-41)
+- [Capitolo quarantadue (42):](#capitolo-quarantadue-42)
+- [Capitolo quarantatré (43):](#capitolo-quarantatré-43)
+- [Capitolo quarantaquattro (44):](#capitolo-quarantaquattro-44)
+- [Capitolo quarantacinque (45):](#capitolo-quarantacinque-45)
+- [Capitolo quarantasei (46):](#capitolo-quarantasei-46)
+- [Capitolo quarantasette (47):](#capitolo-quarantasette-47)
+- [Capitolo quarantotto (48):](#capitolo-quarantotto-48)
+- [Capitolo quarantanove (49):](#capitolo-quarantanove-49)
+- [Capitolo cinquanta (50):](#capitolo-cinquanta-50)
 
 
 ## Capitolo uno (1): LA FAMIGLIA ROSSI
@@ -695,124 +730,25 @@ piccola Maria di tre anni.
 
 ## Capitolo otto (8): I PASTI
 
-All'una e alle otto di sera, tutta la famiglia Rossi è a tavola.
-Cosa fa la famiglia Rossi quando è a tavola? Mangia. Come molte famiglie
-italiane, i Rossi mangiano tre volte al giorno. I Rossi fanno tre
-pasti: il primo pasto (alle sette e mezzo o alle otto di mattina)
-si chiama «colazione»; il secondo pasto (all'una o all'una e mezzo) si
-chiama «pranzo»; il terzo pasto (alle otto o alle otto e mezzo di sera)
-si chiama «cena». Molte famiglie non mangiano che tre volte al giorno,
-come i Rossi, ma altre famiglie fanno un quarto, piccolo pasto alle
-cinque del pomeriggio. A che ora fa colazione la famiglia Rossi?
-La famiglia Rossi fa colazione alle otto di mattina. A che ora pranzano
-i Rossi? Pranzano all'una. E a che ora cena la famiglia? Cena alle
-otto di sera. Quando i Rossi pranzano e cenano, ci sono sei
-persone a tavola: i genitori e i quattro bambini. Non tutti gli italiani
-fanno colazione alla stessa ora dei Rossi: gli uni fanno colazione prima
-dei Rossi (alle sette e mezzo o prima ancora), gli altri più tardi dei
-Rossi (alle otto e mezzo o più tardi ancora). Però, neanche i
-Rossi non fanno colazione alle otto e mezzo. Non tutte le persone in
-Italia pranzano alle stessa ora dei Rossi: ci sono delle persone che
-pranzano prima dei Rossi, ce ne sono che pranzano più tardi. E
-neanche tutti gli italiana non cenano alla stessa ora dei Rossi: c'è
-molta gente che
-cena più tardi di loro. Però, neanche i Rossi non cenano sempre alla
-stessa ora: molti giorni cenano più tardi, alle otto e mezzo, e a
-Ostia cenano sempre più tardi che a Roma.
+All'una e alle otto di sera, tutta la famiglia Rossi è a tavola. Cosa fa la famiglia Rossi quando è a tavola? Mangia. Come molte famiglie italiane, i Rossi mangiano tre volte al giorno. I Rossi fanno tre pasti: il primo pasto (alle sette e mezzo o alle otto di mattina) si chiama «colazione»; il secondo pasto (all'una o all'una e mezzo) si chiama «pranzo»; il terzo pasto (alle otto o alle otto e mezzo di sera) si chiama «cena». Molte famiglie non mangiano che tre volte al giorno, come i Rossi, ma altre famiglie fanno un quarto, piccolo pasto alle cinque del pomeriggio. A che ora fa colazione la famiglia Rossi? La famiglia Rossi fa colazione alle otto di mattina. A che ora pranzano i Rossi? Pranzano all'una. E a che ora cena la famiglia? Cena alle otto di sera. Quando i Rossi pranzano e cenano, ci sono sei persone a tavola: i genitori e i quattro bambini. Non tutti gli italiani fanno colazione alla stessa ora dei Rossi: gli uni fanno colazione prima dei Rossi (alle sette e mezzo o prima ancora), gli altri più tardi dei Rossi (alle otto e mezzo o più tardi ancora). Però, neanche i Rossi non fanno colazione alla stessa ora tutti i giorni: la domenica, fanno colazione alle otto e mezzo. Non tutte le persone in Italia pranzano alla stessa ora dei Rossi: ci sono delle persone che pranzano prima dei Rossi, ce ne sono che pranzano più tardi. E neanche tutti gli italiani non cenano alla stessa ora dei Rossi: c'è molta gente in Italia che cena prima dei Rossi, ce n'è molta che cena più tardi di loro. Però, neanche i Rossi non cenano sempre alla stessa ora: molti giorni cenano più tardi, alle otto e mezzo, e a Ostia cenano sempre più tardi che a Roma.
 
-La stanza dove la famiglia pranza e cena si chiama la sala da pranzo.
-Nella sala da pranzo ci sono una grande tavola e sei sedie---una
-sedia per il padre, una per la madre e una sedia per ogni bambino:
-per Bruno, per Pietro, per Maria, per Pia.
+La stanza dove la famiglia pranza e cena si chiama la sala da pranzo. Nella sala da pranzo ci sono una grande tavola e sei sedie - una sedia per il padre, una per la madre e una sedia per ogni bambino: per Bruno, per Pietro, per Maria, per Pia. Sulla tavola in sala da pranzo, a pranzo e a cena, ci sono sei piatti. Dove sono i sei piatti? Sono davanti ai genitori e davanti a ogni bambino. C'è anche del pane sulla tavola. Gli italiani mangiano molto pane ai pasti. Che cosa c'è ancora sulla tavola? Ci sono molte altre cose: dei coltelli, delle forchette e dei cucchiai: cinque coltelli (la piccola Pia non ha coltello), sei forchette e sei cucchiai. Che altre cose ci sono sulla tavola? Alcune volte c'è anche una bottiglia sulla tavola, a colazione. Che cosa c'è nella bottiglia? C'è del latte. Di che colore è il latte? È bianco. Quanto latte c'è in una bottiglia di latte? In una bottiglia grande c'è un litro di latte, in una bottiglia più piccola ce n'è mezzo litro o un quarto di litro.
 
-Sulla tavola in sala da pranzo, a pranzo e a cena, ci sono sei
-piatti. Dove sono i sei piatti? Sono davanti ai genitori e davanti
-a ogni bambini. C'è anche del pane sulla tavola. Gli italiani
-mangiano molto pane ai pasti. Che cosa c'è ancora sulla tavola? Ci
-sono molte altre cose: dei coltelli, delle forchette e dei cucchiai:
-cinque coltelli (la piccola Pia non ha coltello), sei forchette e sei
-cucchiai. Che altre cose ci sono sulla tavola? Alcune volte c'è
-anche una bottiglia sulla tavola, a colazione. Che cosa c'è nella
-bottiglia? C'è del latte. Di che colore è il latte? Il latte è bianco.
-Quanto latte c'è in una bottiglia di latte? In una bottiglia grande c'è
-un litro di latte, in una bottiglia più piccola ce n'è mezzo litro
-o un quarto di litro.
+Pia beve un bicchiere di latte a colazione, e molte volte ne beve un bicchiere a pranzo. Poi, ne beve ancora alle quattro o alle cinque del pomeriggio. Quanto latte beve Pia nel pomeriggio? Ne beve uno o due bicchieri. I genitori non bevono latte a colazione. Che cosa bevono a colazione? Bevono una tazza di caffè o due. A colazione, molti italiani mettono del latte nel caffè: un quarto di caffè e tre quarti di latte, oppure metà latte e metà caffè. Il caffè con molto latte si chiama «caffè e latte» o «caffellatte». A colazione, in Italia, la gente beve molto caffellatte.
 
-Pia beve un bicchiere di latte a colazione, e molte volte ne beve
-un bicchiere a pranzo. Poi, ne beve ancora alle quattro o alle
-cinque del pomeriggio. Quanto latte beve Pia nel pomeriggio? Ne
-beve uno o due bicchieri. I genitori non bevono latte a colazione.
-Che cosa bevono a colazione? Bevono una tazza di caffè o due. A
-colazione, molti italiani mettono del latte nel caffè: un quarto
-di caffè e tre quarti di latte, oppure metà latte e metà caffè. Il
-caffè con molto latte si chiama «caffè e latte» o «caffellatte». A
-colazione, in Italia, la gente beve molto caffellatte.
+Il caffè si beve in una tazza. Sotto la tazza c'è un piattino. Che cos'è un piattino? Un piattino è un piccolo piatto. Sopra il piattino c'è un piccolo cucchiaio. Un piccolo cucchiaio si chiama «cucchiaino». Che cos'è il caffè? Il caffè è una bevanda. Anche il latte è una bevanda. A colazione, Pia e Pietro non bevono caffè; invece di caffè bevono latte oppure una tazza di caffè e latte con molto latte e poco caffè. Gli italiani non bevono caffellatte che di mattina. Dopo pranzo e nel pomeriggio si beve del caffè nero. Il caffè si chiama «nero» quando nel caffè non c'è né latte né panna. Il caffè con un poco di latte o di panna si chiama «cappuccino».
 
-Il caffè si beve in una tazza. Sotto la tazza c'è un piattino. Che
-cos'è un piattino? il
-piattino c'è un piccolo cucchiaio. Un piccolo cucchiaio si chiama
-«cucchiaino». Che cos'è il caffè? Il caffè è una bevanda. Anche il
-latte è una bevanda. A colazione, Pia e Pietro non bevono caffè; invece
-di caffè bevono latte oppure una tazza di caffè e latte con molto latte
-e poco caffè. Gli italiani non bevono caffellatte che di mattina. Dopo
-pranzo e nel pomeriggio si beve del caffè nero. Il caffè si chiama
-«nero» Il caffè
-con un poco di latte o di panna si chiama «cappuccino».
+Di che colore è il caffè? Il caffè senza latte è nero. Il cappuccino non è nero, ma bruno. Di che colore è il latte? Il latte è bianco. Anche il pane è bianco in Italia. Con la panna del latte si fa il burro. Il burro è giallo. In Italia si mangia poco burro. Che cosa si fa col latte? Col latte si fa il formaggio e altre cose. In Italia si fa molto formaggio. Anche in altri paesi si fa molto formaggio. In Italia, il formaggio non si mangia di mattina, ma si mangia a pranzo e a cena.
 
-Di che colore è il caffè? Il caffè senza latte è nero. Il
-cappuccino non è nero, ma bruno. Di che colore è il latte? Il latte è
-bianco. Anche il pane è bianco in Italia. Con la panna del latte si fa
-il burro.
-Che cosa si fa col latte? Col latte si fa il formaggio e altre cose. In
-Italia si fa molto formaggio. Anche in altri paesi si fa molto
-formaggio. In Italia, il formaggio non si mangia di mattina, ma
-si mangia a pranzo e a cena.
+Che cosa mette il signor Rossi nel suo caffè? Ci mette dello zucchero. Quanto zucchero ci mette? Ce ne mette un cucchiaino. Di che colore è lo zucchero? È bianco. Anche la signora Rossi mette dello zucchero nel caffè, però lei ce ne mette tre cucchiaini. Lo zucchero è dolce. La signora Rossi mette molto zucchero nel suo caffè, e il suo caffè è molto dolce. Il signor Rossi mette nel caffè meno zucchero che sua moglie, e il suo caffè è meno dolce di quello di Teresa Rossi. Il caffè nero senza zucchero non è dolce. In Italia, poca gente beve il caffè nero senza zucchero.
 
-Che cosa mette il signor Rossi nel suo caffè? Ci mette dello
-zucchero. Quanto zucchero ci mette? Ce ne mette un
-cucchiaino. Di che colore è lo zucchero? È bianco. Anche la
-signora Rossi mette dello zucchero nel caffè, però lei ce ne mette tre
-cucchiaini. Lo zucchero è dolce. La signora Rossi mette molto zucchero
-nel suo caffè, e il suo caffè è molto dolce. Il signor Rossi mette nel
-caffè meno zucchero che sua moglie, e il suo caffè è meno dolce di
-quello di Teresa Rossi. Il caffè nero senza zucchero no è dolce.
-In Italia, poca gente beve il caffè nero senza zucchero.
+Sopra la tavola, a pranzo e a cena, c'è una tovaglia. Di che colore è la tovaglia? La tovaglia è bianca. Sopra la tovaglia, davanti a ogni persona c'è un tovagliolo. Anche i tovaglioli sono bianchi. Davanti a ogni persona ci sono un piatto, un bicchiere, un coltello, una forchetta e molte volte c'è anche un cucchiaio. Quando si mangia, si ha il cucchiaio nella mano destra oppure il coltello nella mano destra e la forchetta nella mano sinistra. Pia però non ha coltello nella mano destra perché è troppo piccola. Lei ha soltanto una forchettina nella mano destra oppure un piccolo cucchiaio.
 
-Sopra la tavola, a pranzo e a cena c'è una tovaglia. Di che colore è la
-tovaglia? La tovaglia è bianca. Sopra la tovaglia, davanti a ogni
-persona c'è un tovagliolo. Anche i tovaglioli sono bianchi.
-Davanti a ogni persona ci sono un piatto, un bicchiere, un coltello, una
-forchetta e molte volte c'è anche un cucchiaio. Quando si mangia,
-si ha il cucchiaio nella mano destra oppure il coltello nella mano
-destra e la forchetta nella mano sinistra. Pia però non ha
-coltello nella mano destra perché è troppo piccola. Lei ha soltanto una
-forchettina nella mano destra oppure un piccolo cucchiaio.
+Dove sono il coltello, la forchetta e il cucchiaio? Sono sopra la tovaglia, a destra e a sinistra del piatto: il coltello e il cucchiaio a destra, la forchetta a sinistra. E molte volte, i tovaglioli sono sopra i piatti. A pranzo e a cena, c'è anche un fiasco sulla tavola. Che cosa c'è nel fiasco? Nel fiasco c'è del vino. Quanto vino c'è in un fiasco? In un fiasco piccolo non c'è che un litro di vino, ma in un fiasco grande ce ne sono due.
 
-Dove sono il coltello, la forchetta e il cucchiaio? Sono sopra la
-tovaglia, a destra e a sinistra del piatto: il coltello e il cucchiaio a
-destra, la forchetta a sinistra. E molte volte, i tovaglioli sono sopra
-i piatti. A pranzo e a cena, c'è anche un fiasco sulla tavola. Che
-cosa c'è nel fiasco? Nel fiasco c'è del vino. Quanto vino c'è in un
-fiasco? In un fiasco piccolo non c'è che un litro di vino, ma in un
-fiasco grande ce ne sono due.
+Il signor Rossi versa del vino nel suo bicchiere, nel bicchiere di sua moglie e nei bicchieri di Bruno e di Maria. Però non versa molto vino nei bicchieri di Bruno e di Maria. Alla domenica, il papà versa del vino anche nel bicchiere di Pietro, però solo mezzo bicchiere. Poi versa dell'acqua nel bicchiere di Pietro, perché Pietro beve soltanto vino con acqua. Pia non beve ancora vino; i bambini piccoli bevono latte o acqua invece di vino. Di che colore è l'acqua? L'acqua non ha colore. E il vino di che colore è? Il vino è bianco o rosso. Quand'è a Roma, il signor Rossi a pranzo e a cena beve del vino rosso, ma ad Ostia beve soltanto vino bianco. Il vino bianco è molte volte, ma non sempre, più dolce del vino rosso.
 
-Il signor Rossi versa del vino nel suo bicchiere, nel bicchiere di sua
-moglie e nei bicchieri di Bruno e di Maria. Però non versa molto vino
-nei bicchieri di Bruno e di Maria. Alla domenica, il papà versa
-del vino anche nel bicchiere di Pietro, però solo mezzo bicchiere. Poi
-versa dell'acqua nel bicchiere di Pietro, perché Pietro beve
-soltanto vino con acqua. Pia non beve ancora vino; i bambini piccoli
-bevono latte o acqua invece di vino. Di che colore è l'acqua? L'acqua
-non ha colore. E il vino di che colore è? Il vino è bianco o rosso.
-Quand'è a Roma, il signor Rossi a pranzo e a cena beve del vino
-rosso, ma ad Ostia beve soltanto vino bianco. Il vino bianco è molte
-volte, ma non sempre, più dolce del vino rosso.
-
-Cosa c'è sopra la tavola a pranzo e a cena? C'è una tovaglia. E che cosa
-c'è davanti a ogni persona? Ci sono un tovaglioli, un bicchiere, un
-piatto e, a destra e a sinistra del piatto, un coltello, un cucchiaio e
-una forchetta. Che cosa c'è sotto le tazze? Ci sono i piattini. E sopra
-il piattino? C'è un cucchiaino.
+Cosa c'è sopra la tavola a pranzo e a cena? C'è una tovaglia. E che cosa c'è davanti a ogni persona? Ci sono un tovagliolo, un bicchiere, un piatto e, a destra e a sinistra del piatto, un coltello, un cucchiaio e una forchetta. Che cosa c'è sotto le tazze? Ci sono i piattini. E sopra il piattino? C'è un cucchiaino.
 
 
 ## Capitolo nove (9): IL COMPLEANNO
@@ -1266,3 +1202,278 @@ Quando il dottore se n'è andato, la mamma aiuta Bruno ad alzarsi e a vestirsi, 
 Siccome Pia ha visto spesso i suoi fratelli e sua sorella giocare a carte, dopo un mezz'oretta dice a Bruno: «Adesso non dirmi più quello che devo fare! Voglio trovarlo da me». Bruno aspetta un po', mentre la Pia pensa; poi vuole aiutarla, ma la Pia gli dice: «Non dir nulla! Vedrai che troverò da me sola quello che devo fare». E Pia pensa ancora un po', poi dice: «Ho trovato!», e getta sul tavolino davanti a Bruno cinque carte. Bruno le guarda, poi mostra le sue carte alla sua sorellina e le dice: «Ma brava, hai vinto tu questa volta! Le tua carte sono molto migliori delle mie. Sai giocare meglio di Pietro e della Maria!». La Pia sorride ed è molto contenta di sé.
 
 Un'ora dopo, quando la mamma viene a domandare a Bruno se vuole stare ancora una mezz'oretta in poltrona o se è stanco, la Pia le dice: «Mammina, sai che io so giocare a carte meglio di Pietro e della Maria?». «Ma brava!», dice la mamma, «ti ha insegnato Bruno?». «Sì, e sai quante volte ho vinto io?». «Ma... non lo so», risponde Teresa Rossi. Ma la Pia ripete: «Indovina quante volte ho vinto! Prova a indovinarlo!». «Come faccio a indovinarlo?», dice la mamma, poi aggiunge: «Dimmi quante volte avete giocato, allora proverò a indovinare quante volte ha vinto Bruno e quante volte hai vinto tu». «Abbiamo giocato dodici volte», dice la Pia. «Allora... vediamo un po'... hai vinto quattro volte tu e ha vinto otto volte Bruno». «No, non hai indovinato! Prova ancora una volta!». «Allora, vediamo... sei volte tu e sei volte Bruno». «No! Ho vinto sette volte io, e Bruno ha vinto solo cinque volte!». «Ma allora tu sei più brava anche di Bruno! Come hai fatto a vincere tante volte?». «È perché Bruno oggi è stanco e gioca meno bene degli altri giorni. Gli altri giorni, quando gioca con Pietro e Maria, vince sempre lui». Bruno, rispondendo alla domanda della mamma se vuole rimanere ancora un po' in poltrona, dice che è troppo stanco e chiede alla mamma di aiutarlo a tornare a letto.
+
+
+## Capitolo sedici (16): DOMANI ANDIAMO A PISA
+
+La mattina seguente, verso le dieci, la Pia entra correndo nella camera di Bruno e dice: «Bruno! Bruno! Sai cosa?». Bruno: «No; come faccio a saperlo? Non sono ancora uscito di camera, oggi». Pia: «Domani andiamo a Pisa dalla zia Giovanna». (La zia Giovanna è la sorella di Teresa Rossi e sta a Pisa col marito e col figlio Giorgio di vent'anni). Bruno: «Che dici? A Pisa? Chi è che ci va?». Pia: «Io, tu, la mamma e Antonio». Bruno: «Io, tu, la mamma e Antonio? Bellissimo! Antonio non è mai stato a Pisa. Ma ... come fai a saperlo?». Pia: «Ho sentito la mamma che lo diceva al telefono alla signora Verdi».
+
+Bruno, sentendo quello che gli dice sua sorella, è molto contento. E prima dice soltanto: «Bello! Bellissimo!», poi domanda: «E papà? E Maria? E Pietro? Li lasciamo a Roma? Non vengono con noi?». La Pia risponde: «Eh? no! Non possono mica venire con noi! Se papà viene con noi deve tornare a Roma ogni giorno, e Pietro e Maria devono andare a scuola, no? E non si può mica andare da Pisa a Roma ogni giorno!». Bruno: «Ah sì, non pensavo alla scuola ...». Pia: «Eh, caro mio! Non possono mica tutti rompersi le gambe per far vacanza in maggio!». Bruno: «Eh, cara mia! Anche se faccio un mese e mezzo di vacanza, non crederai mica che son contento di essermi rotto la gamba?». La Pia dice sorridendo: «Chissà? Molto, molto scontento non lo sei neppure. Non sei stato contento quand'è successo l'incidente, ma oggi ...».
+
+In quel momento entra in camera la signora Rossi. «Bruno, Pia», dice ella, «avete voglia di andare a Pisa dalla zia Giovanna per un paio di settimane?». Bruno e Pia non rispondono subito, non sapendo che dire. Poi si guardano ridendo, e Teresa Rossi indovina perché ridono: mentre parlava al telefono con la signora Verdi, ella ha sentito la Pia entrare in sala e uscire di nuovo. Perciò dice: «Bene! Se lo sapete già vi dirò soltanto che partiamo da Roma domani, subito dopo pranzo. Così saremo a Pisa verso sera, andremo subito a cena, e poi potremo fare un giretto prima di coricarci». Bruno: «La Pia dice che ci viene anche Antonio, a Pisa». Teresa Rossi: «Sì, Antonio viene con noi anche lui».
+
+Poco dopo, la signora Rossi esce dalla camera di Bruno e va a telefonare a suo marito. «Carluccio», dice, «ho parlato con la signora Verdi. Ha detto che lascia volentieri Antonio venire con noi al mare dalla Giovanna». A ciò Carlo Rossi risponde: «Benissimo, cara! Quando avete pensato di partire?». Teresa: «Domani, dopo pranzo. Se prenderemo il treno che parte da Roma verso le due arriveremo a Pisa verso le sei. Potremo fare un giretto dopo cena e poi andremo a coricarci». Carlo: «Allora, se vuoi vado alla stazione a prendere i biglietti». Teresa: «Bravo, vacci tu! Io non credo che avrò tempo. Sai, ci son sempre tante cose da fare prima di partire». Carlo: «E Amelia, la lasci qui a Roma o la prendi con te?». Teresa: «La lascio con te. Giovanna ha una donna bravissima, e poi non posso mica lasciarvi soli in città, te e i due bambini!». Carlo: «I due bambini?». Teresa: «Sì, Pietro e Maria». Carlo: «Ah, sì! Dimenticavo che devono andare a scuola!». Poi ride e aggiunge: «Divento vecchio, Teresina. Non mi ricordavo più che ho due figli che vanno a scuola!». Anche Teresa Rossi ride e dice: «No, Carluccio, non diventi vecchio, ma hai troppo da fare e sei stanco. Sai cosa? Perché non vieni anche tu al mare per qualche giorno insieme a noi?». Carlo: «Adesso? No, Teresa, adesso non posso lasciare Roma. In questo momento ho troppo da fare, ma fra un mesetto, sì, potrò andarmene per qualche giorno. Ora no». Teresa: «E un gran peccato! Ma se non puoi non c'è nulla da fare. Allora compra soltanto quattro biglietti: tre per noi e uno per il piccolo Verdi». Carlo: «Va bene!». Poi aggiunge ridendo: «Proverò a ricordarmelo!». Anche Teresa ride e dice: «Ciao, Carlo! E non tornare troppo tardi!». Carlo: «Va bene! Ciao, Teresina!».
+
+Prima di tornare a casa, quel giorno, il signor Rossi si reca alla stazione Termini per comprare i biglietti. Quando Carlo Rossi arriva alla stazione, c'è molta gente davanti agli sportelli. Egli deve perciò aspettare cinque o sei minuti prima di poter comprare i biglietti. Quando arriva davanti allo sportello, l'impiegato gli domanda: «Dove vuole andare?». Carlo Rossi: «A Pisa». L'impiegato: «Quanti?». Carlo Rossi: «Tre, e una bambina di cinque anni». L'impiegato: «Se ha cinque anni paga mezzo biglietto». Poi, l'impiegato domanda: «Andata sola o andata e ritorno?». Carlo Rossi: «Andata e ritorno, per favore. Quanto fa?». L'impiegato: «Fa quindicimila trecentotrenta (15.330)». Carlo Rossi: «Soltanto? Ma ... che classe mi ha dato?». L'impiegato: «Le ho dato tre biglietti e mezzo di seconda classe. In che classe vuole andare?». Carlo Rossi: «In prima». L'impiegato: «Non me l'aveva mica detto. Allora fa ventisettemila seicentocinquanta (27.650) lire. Ecco i Suoi biglietti!», dice l'impiegato porgendo i biglietti a Rossi. «Grazie! Ed ecco trentamila lire!», dice Rossi e porge all'impiegato tre biglietti da diecimila lire. L'impiegato: «Grazie. Duemila trecentocinquanta a Lei». Carlo Rossi prende i biglietti e li mette in tasca con i soldi che gli porge l'impiegato.
+
+Quando Carlo Rossi torna a casa, Bruno e Pia gridano: «Ecco papà!», e gli domandano: «Sei stato alla stazione? Hai i biglietti?». «Sì, sì!», risponde Rossi. Durante la cena e dopo cena si parla soltanto del mare, di vacanze e della zia Giovanna, fino a quando la signora Rossi dice a Pietro e alla Pia: «Adesso è ora di coricarvi, bambini!». «Di già?», dicono i due, ed aggiungono: «Che peccato!». Un'ora dopo vanno a letto anche Bruno e Maria, dicendo anche loro: «Di già? Che peccato! Stavamo così bene qui».
+
+
+## Capitolo diciassette (17): IL SOGNO DI BRUNO
+
+Quando Bruno apre gli occhi il giorno dopo, la prima cosa che pensa è: «Oggi si va a Pisa! Oggi io, la Pia, la mamma e Antonio andiamo a Pisa!». Il suo pensiero seguente è che deve alzarsi presto presto per essere vestito in tempo. Ma quando guarda l'orologio, vede che sono soltanto le sei. Se si alzerà a quell'ora, sveglierà tutta la famiglia. Non c'è dunque altro da fare che aspettare un'altra ora prima di alzarsi.
+
+Bruno, svegliandosi, era coricato sul lato sinistro. Ora si volta sull'altro lato e si mette a pensare a ciò che farà al mare con l'amico Antonio. Prima ad occhi aperti, ma poi, a poco a poco, i suoi occhi si chiudono da soli, egli smette di pensare e ... si addormenta di nuovo. Un'ora dopo, egli è svegliato da Pietro, che è stato svegliato dal sole poco fa, e adesso grida: «Bruno! Dormi ancora? Svegliati, è ora di alzarsi! Oggi si va a Pisa. Bruno!». Bruno si sveglia a poco a poco, e dice: «Perché gridi? Lo so benissimo che oggi si va a Pisa. Ero sveglio prima di te, sai?». «E allora perché non mi hai risposto prima, quando ti ho chiamato? Ti chiamo da almeno cinque minuti». «Almeno? Non è vero, perché io sono sveglio da almeno dieci minuti!». «Sì, è vero, perché tu quando mi sono svegliato dormivi ancora, e io mi sono svegliato sette o otto minuti fa». «Va bene, va bene!», dice Bruno, «ma ora, se non stai zitto e se non smetti di gridare in quel modo, io non ti racconto quello che ho sognato mentre dormivo». Allora sto zitto. Racconta!», dice Pietro; e Bruno si mette a raccontare ciò che ha sognato.
+
+Eravamo arrivati alla stazione di Pisa ed eravamo usciti sulla piazza per trovare una macchina per andare a Marina di Pisa, dalla zia Giovanna. A un tratto la mamma ha gridato, guardando a destra e a sinistra: «La terza valigia! Dov'è la terza valigia?». Era quella bruna, sai? Quando abbiamo sentito la mamma domandare dov'era la valigia, noi, prima, siamo rimasti fermi lì, davanti alla stazione, senza dire né fare nulla. Ma poi Antonio ha detto che forse avevamo dimenticato la valigia in treno. «Sì!», ho detto io, «deve essere rimasta nello scompartimento. Corro a prenderla!». La mamma voleva fermarmi, dicendomi che anche se trovavo la valigia, non potevo portarla da solo. Ma io, senza sentire quello che diceva, e gridando: «Torno fra un momento!», mi sono messo a correre. Sono entrato correndo nella stazione, ed ho trovato subito la carrozza con la quale eravamo arrivati. Son salito nella carrozza ed ho cominciato a cercare il nostro scompartimento.
+
+A un tratto ho visto davanti a me un uomo che usciva da uno scompartimento con in mano la nostra valigia bruna! Io allora ho gridato: «Ehi! Lei! quella valigia è nostra!». L'uomo si è voltato verso di me, ma invece di rispondermi si è messo a correre. Allora mi sono messo a correre anch'io, inseguendo l'uomo che aveva rubato la nostra valigia. Il ladro non si è fermato neppure quando mi ha sentito gridare; è sceso dalla carrozza ed ha cominciato a correre verso l'uscita della stazione. Inseguendolo, anch'io sono sceso in un salto dalla carrozza e mi son messo a gridare: «Al ladro! Al ladro! Fermatelo! Ha rubato la nostra valigia!». Anche dell'altra gente, sentendomi gridare, si è messa ad inseguire il ladro, provando a fermarlo e gridando: «Al ladro! Ha rubato una valigia!». Ma il ladro correva più presto di tutti gli altri, e la gente non poteva fermarlo. Così egli è arrivato fino all'uscita della stazione. Sempre correndo è uscito sulla piazza, ed io sempre dietro. Ma lì, in mezzo alla piazza, è stato fermato da una guardia che, vedendo tutta quella gente che usciva gridando dalla stazione, ha gridato al ladro: «Fermo!», e così l'ha fermato. Quando sono arrivato accanto a lui, che si era fermato in mezzo alla piazza, ho detto alla guardia che quell'uomo ci aveva rubato la valigia. L'uomo ha provato a dir di no. «Non è vero: la valigia è mia!», diceva. Ma io ho detto alla guardia: «Lei lo può domandare alla mia mamma che aspetta lì, con mia sorella e col mio amico, accanto alle altre valige nostre. Le dirà lei se è nostra!». «Andiamo!», ha detto allora la guardia. Ma l'uomo, che sapeva benissimo che la valigia non era sua, non aveva molta voglia di parlare con la mamma. Prima dunque ha detto: «Va bene! Come vuole Lei», ed è venuto con noi. Poi, a un tratto, si è fermato, ha lasciato la valigia, si è voltato, e si è messo di nuovo a correre. Questa volta però è stato subito inseguito dalla gente che era lì.
+
+La guardia prima è rimasta ferma, non sapendo se doveva correre dietro al ladro o portare la valigia alla mamma. Poi, ha preso la valigia ed è venuta con me verso la mamma e gli altri due, che avevano visto tutto.
+
+«E il ladro?», domanda Pietro. «Il ladro», comincia Bruno, «a è stato fermato dalla gente che lo inseguiva, e ...». Ma in quel momento entra la mamma, la quale, sentendo parlare di ladri, domanda: «Che ladro? Che cosa stai raccontando?». Bruno risponde: «Sto raccontando quello che è successo quando siamo arrivati a Pisa». Sua madre lo guarda negli occhi, poi gli domanda se sta male. Bruno si mette a ridere, ed è Pietro che risponde per lui: «No, mamma, non sta mica male Bruno. Sta soltanto raccontando ciò che ha sognato stanotte». «Ah, se è soltanto un sogno ...», dice allora Teresa Rossi, ed esce di nuovo, dopo aver detto ai ragazzi: «Adesso alzatevi, ragazzi!». Essa ha ancora molto da fare. Così Bruno, alzandosi e vestendosi, può finire di raccontare a Pietro il suo sogno.
+
+
+## Capitolo diciotto (18): IL VIAGGIO
+
+Poco dopo il pranzo, Teresa Rossi e i due bambini prendono un tassì per andare alla stazione Termini. «Dovete andarci da soli», ha detto Carlo Rossi, che oggi non ha tempo di portare sua moglie e i bambini alla stazione. Lì devono incontrarsi con Antonio Verdi e sua madre. E le prime persone che vedono Bruno e Pia, entrando nella stazione, sono Antonio e la signora Verdi.
+
+«Ciao, Antonio!», gridano Bruno e Pia, correndo verso l'amico. Le due signore si salutano, e tutti e cinque vanno verso il treno che già aspetta sul binario. Due facchini li seguono, portando le loro valige. Il facchino dei Verdi ne porta una sola, ma grande, mentre il facchino dei Rossi ne porta una grande e due piccole, una delle quali è bruna.
+
+Nel treno per Pisa, fermo sul binario, i Rossi trovano uno scompartimento vuoto, dove i facchini mettono le valige. Le signore pagano i facchini, che escono dallo scompartimento ringraziandole. Quando i facchini sono usciti, la Pia dice che vuol sedersi accanto al finestrino. «Anch'io!», dice Bruno. «Anch'io!», dice Antonio. «Come facciamo, allora?», dicono tutti e tre insieme. «Cosa c'è adesso?», domanda la signora Rossi. «Non sappiamo dove sederci», le rispondono i ragazzi. «Due ragazzi grandi che non sanno dove sedersi? Bruno, tu sei il più grande, no?». «Sì, mamma, ma, ma ...». «E sai bene che Antonio è il tuo invitato, no?». «Sì, lo so, ma ...». «Allora sai pure che i due posti accanto al finestrino li devi lasciare a Pia e ad Antonio». «Sì, mamma», dice Bruno sedendosi accanto a sua madre. La Pia ed Antonio si mettono accanto al finestrino.
+
+Allora le signore si dicono «arrivederci», e la signora Verdi dice a suo figlio: «Ora io ti lascio, Tonino. Mi devi promettere che sarai un bravo ragazzo». «Sì, mammina, te lo prometto!», dice Antonio, e abbraccia la mamma. Poi torna al finestrino, dove i tre amici si mettono a guardare la gente che passa, la gente agli altri finestrini, i facchini che vanno su e giù con le valige, tutti e tutto. La signora Verdi scende dalla carrozza e cinque minuti dopo, alle due e dieci, il treno lascia la stazione. La signora Rossi chiude il finestrino e i bambini si siedono di nuovo ai loro posti.
+
+Un momento prima della partenza del treno, un signore era entrato nello scompartimento, ed ora si siede in un angolo dicendo: «Ancora un po', e il treno partiva senza di me. Mi avevano detto che la partenza era alle due e un quarto, ed io credevo, arrivando alle due e dieci, di arrivare in tempo. Invece, sono arrivato all'ultimo momento. Se il treno partiva un mezzo minuto prima, io rimanevo a Roma!». «Va a Pisa anche Lei?», gli domanda la signora Rossi. «No, io vado solo fino a Livorno», risponde l'uomo e aggiunge ridendo: «Proverò a ricordarmelo!». Anche Teresa ride e dice che lei non è più tanto giovane quanto crede quel signore; lei non è più tanto giovane quanto crede quel signore.
+
+Un momento dopo, Bruno dice: «Sai, mamma, è necessario anche mangiare, con questo caldo». «Oh, poveretti!», dice sua madre, «ora vi do una tavoletta di cioccolata per uno». Poi si alza e vuol prendere una delle valige piccole. «Posso aiutarLa, signora?», domanda il signore. Ma in quel momento la valigia gli cade sulla testa e il bicchiere di birra che tiene in mano gli cade sui calzoni. «Oh!», esclama la povera signora Rossi, «La prego di scusarmi!». Poi aggiunge: «Spero di non averLe fatto male alla testa». «No, no, signora! Sono io che Le chiedo scusa, perché dovevo aiutarLa senza chiederGlielo prima». «Posso darLe un'arancia?», dice allora Teresa. «La mangerò con grandissimo piacere quando ho finito la mia birra», dice il signore, e Teresa dà una tavoletta di cioccolata per uno ai bambini, poi dà una bella arancia al signore e ne prende una lei stessa.
+
+E così, mangiando, bevendo e parlando, passa ancora un'ora e mezzo, e alle sei, quasi quattro ore dopo la partenza da Roma, il treno entra nella stazione di Livorno. Il signore dice: «ArrivederLa, signora. È stato un gran piacere». Poi dice: «Arrivederci, giovinotti! Arrivederci, piccina! Buon viaggio!». Teresa Rossi ed i bambini gli rispondono: «Grazie. Arrivederci, signore!». Il signore allora sorride e dice che anche lui è stato ragazzo, che non fa niente, e che a una signora così bella si può scusare tutto! E così i Rossi ed Antonio escono dalla stazione.
+
+Nella piazza davanti alla stazione, essi prendono un tassì per andare a Marina di Pisa, dove la sorella di Teresa li aspetta col figlio Giorgio. Essa sta a Pisa, ma d'estate va al mare, in una piccola casa a una diecina di chilometri dalla città.
+
+
+## Capitolo diciannove (19): UN BAGNO CHE FINISCE MALE
+
+Il giorno dopo, i due ragazzi si alzano ai primi raggi del sole. Sono le cinque, tutti gli altri dormono ancora, nessuno è sveglio. Alzati e vestiti, i due ragazzi escono di casa senza svegliare nessuno. Usciti di casa, essi vanno verso il mare, camminando in fretta, senza parlare. Vogliono essere i primi a vedere il mare, e poi vogliono fare il primo bagno dell'anno. La signora Rossi non deve saperlo; essa non permette mai ai bambini di andare in mare da soli. Bruno nuota molto bene, ma sua madre non gli permette di nuotare da solo dove l'acqua è alta. Per arrivare al mare i ragazzi devono fare un centinaio di metri prima di vedere l'acqua.
+
+Bruno fa il bagno, ma non è mai stato in mare da solo. Stamattina, per la prima volta, egli è solo, e non sa che cosa fare. Antonio è con lui, ma anche lui non sa che cosa fare. I due ragazzi camminano in fretta verso il mare, e dopo un momento vedono una piccola via a sinistra. Voltare a sinistra e di entrare in una piccola via nella quale, in una piccola casa bianca, sta una vecchia signora sola, la signora Filomena. Questa signora ha un grossissimo cane che di notte sta in casa, ma di giorno sta nel giardino o fuori, davanti alla casa. Il cane si chiama Cesare.
+
+Entrando nella piccola via, stamattina, la prima cosa che vedono i ragazzi è che Cesare è già uscito dal giardino ed è ora sdraiato al sole sul marciapiede. I due amici si fermano, Bruno si volta verso Antonio e gli domanda: «Prendiamo un'altra strada?». Antonio: «Perché?». Bruno, mostrando il cane: «Ma ... c'è Cesare». Antonio: «Cesare?». Bruno: «Sì, quel cane che sta sdraiato lì, davanti al giardino». Antonio: «E allora? Non vuoi passargli davanti? Hai forse paura?». Bruno: «Io? No che non ho paura di Cesare». Antonio: «Allora?». Bruno: «Eh, pensavo che forse ne avevi paura tu». Antonio: «Io? Non farmi ridere!». Bruno: «Ma ... allora andiamo!».
+
+Cesare fa paura ai due ragazzi, ma essi non vogliono dirlo, e vanno a piccoli passi verso il cane. Quando sono a una diecina di metri, Cesare alza la testa e li guarda. «Bravo Cesare, bravo ...», dice Bruno, provando a far credere al cane che lui non ha paura. Ma Cesare si alza da terra e fa un passo verso i due ragazzi. Quelli si fermano e pensano già di correre verso casa, ma Cesare, avendo sentito qualcosa, volta la testa verso il giardino, e torna in casa.
+
+Cinque minuti dopo, i ragazzi arrivano in riva al mare. La spiaggia è tutta per loro: non si vede nessuno, sono soli. I due amici corrono verso l'acqua verde e fredda, si tolgono le scarpe e i calzini ed entrano in acqua. È molto fredda, e i ragazzi ne escono dopo un momento, ridendo e facendo: «brrr! ...». «È fredda, non trovi?», dice Antonio. «Sì, è freddolina», risponde Bruno. «Questo bagno, hai ancora voglia di farlo, tu?», domanda allora Antonio. Bruno non ne ha più voglia, ma davanti all'amico non può e non vuole dire che l'acqua fredda non gli piace. Perciò risponde: «Perché no? Perché l'acqua è freddolina? Hai forse paura dell'acqua fredda, tu?». «Paura dell'acqua fredda, io? Non sono mica una bambina. Ci spogliamo?». «Spogliamoci!». Un momento dopo, i due si sono tolti i calzoni, la camicia e la maglia, e rimangono in mutandine da bagno. «Che freddo!», dice Antonio. «Sì, corriamo!», esclama Bruno, e i due ragazzi si mettono a correre su e giù per la spiaggia, lungo la riva del mare. Dopo cinque o sei minuti, i due amici si sono riscaldati e si buttano in acqua. «Nuotiamo un po'?», domanda Bruno. «Sì», risponde Antonio, poi aggiunge: «Andiamo fino a quella boa?». «Bene. Prova a seguirmi!», dice Bruno; e un momento dopo i due ragazzi nuotano ridendo e provando ciascuno ad arrivare alla boa prima dell'altro.
+
+La distanza dalla riva alla boa è di cento metri. Di giorno, e quando l'acqua è più calda, cento metri non sono molti, ma ora la distanza dalla spiaggia alla boa pare molto, molto lunga ai ragazzi, ed essi pensano che non ci arriveranno mai, a quella boa. Nuotano e nuotano, ma la distanza pare aumentare, invece di diminuire. E ad ogni momento non aumentano, ma diminuiscono le forze dei ragazzi. Quando arrivano alla boa, Bruno è un paio di metri davanti ad Antonio. Tutti e due sono già stanchi morti. «Che fredda, l'acqua», dice Bruno. «Sì, fa male alle gambe», dice Antonio. «A me fa male anche alle braccia», dice Bruno e guarda la riva, che ora gli pare distante centinaia di metri. Poi, dopo un paio di minuti: «E adesso, che facciamo?». Antonio: «Torniamo alla spiaggia, no?». Bruno: «Non c'è altro da fare ... Ce la fai, tu? Non sei troppo stanco?». Antonio: «Bisogna provare. E tu, ce la fai?». Bruno: «Mi fanno male le gambe, ma credo di poter farcela». Antonio: «Proviamo?». Bruno: «Proviamo». E i due ragazzi si buttano di nuovo nell'acqua.
+
+Questa volta però non provano a nuotare a tutta forza, perché arrivare alla spiaggia non pare più tanto facile quanto prima. Nuotano senza parlare. La riva è distante novanta metri, poi ottanta, settanta, sessanta, cinquanta ... Ma ecco che, arrivato a cinquanta metri da terra, Bruno, a un tratto, grida: «aiuto!», e smette di nuotare. Antonio si volta verso l'amico e gli domanda: «Che ti succede?». «Non ce la faccio più! ce la fai? : puoi arrivare fino alla spiaggia?». «Aiuto!», ripete Bruno, con gli occhi spalancati dalla paura.
+
+Allora anche Antonio prende paura, ed anche lui si mette a gridare: «aiuto! aiuto!». Un momento dopo, egli sente la mano di Bruno che gli prende il braccio. «Lasciami andare! Non posso nuotare se mi tieni il braccio», grida il ragazzo, ma Bruno non pensa più che a sé stesso. Egli non ha che un pensiero: non vuole morire, non vuole affogare. Perciò, quando non ha più forza per tenere il braccio dell'amico, gli prende i capelli. «Lasciami andare! Lasciami!», grida Antonio, sentendo che le forze lo lasciano e che fra qualche momento non potrà più nuotare neanche lui. Ma Bruno non sente più niente; egli continua a tenere l'amico per i capelli, non lo vuole lasciare: ha soltanto una grandissima paura di affogare. I ragazzi sono ancora a cinquanta metri da terra, e sulla spiaggia non si vede nessuno. I due ragazzi sono soli, nessuno risponde alle loro grida. L'acqua è fredda, non possono più continuare. La paura toglie ogni forza a Bruno. Ma adesso anche Antonio comincia ad affogare. E dopo un ultimo «aiuto!», prima Antonio, poi Bruno, si sentono andar giù. Il mare, verde e freddo, si chiude sopra le loro teste.
+
+
+## Capitolo venti (20): BRAVO CESARE!
+
+Quando Giorgio, il cugino di Bruno, è a Marina di Pisa, egli si alza ogni mattina alle sei e va alla spiaggia per nuotare. Anche stamattina egli esce di casa per andare alla spiaggia. E un bel giovanotto, alto, forte, più forte di tutti i suoi amici. Nuota come un pesce e non ha paura di nulla.
+
+Quando è quasi arrivato alla piccola via dove sta la vecchia signora Filomena, sente un cane che fa: «bau! bau!». E Cesare, il grosso cane della signora Filomena; e poco dopo lo vede che arriva correndo verso di lui sempre abbaiando a tutta forza. Giorgio non capisce che cosa vuole Cesare e gli domanda: «Che hai, Cesare?». Ma Cesare si volta e si mette a correre verso il mare. Vuole farsi seguire da Giorgio, il quale ora capisce che c'è qualche cosa che non va. Corre dietro al cane che è già arrivato sulla riva, e che lì si è fermato guardando verso il mare. In quel momento gli pare di sentire delle grida di una o più persone: «aiuto! aiuto!», e subito dopo vede nell'acqua, a una cinquantina di metri dalla riva, le teste di due ragazzi: sono essi che stanno chiedendo aiuto.
+
+Ogni momento può costar caro: bisogna far presto. In un attimo Giorgio si spoglia e si butta nell'acqua. In un minuto percorre nuotando i cinquanta metri dalla spiaggia al luogo dove i due amici stanno affogando, e nel momento stesso che i due ragazzi si sentono andare sott'acqua, due mani forti prendono Bruno per un braccio e Antonio per l'altro. Poi Giorgio comincia a nuotare verso la spiaggia. Ma questa volta il giovanotto non nuota così presto come prima. Potendo nuotare soltanto con le gambe egli va molto piano, e mette perciò quasi cinque minuti a percorrere la distanza fino alla spiaggia, dove arriva stanchissimo. Arrivatoci, sdraia i due ragazzi sulla sabbia.
+
+Essi hanno gli occhi chiusi, sono bianchi in faccia ed hanno la bocca aperta, ma non sono morti. Sono ancora vivi. Giorgio guarda a destra e a sinistra: sulla spiaggia non c'è nessuno. «Bisogna portarli a casa, e presto. Ma come?», pensa il giovanotto. «Non posso mica portarli a casa tutti e due in una sola volta. Uno sì, ma due no. Se ci porto prima Bruno, che faccio di Antonio? E se ci porto prima Antonio, lascio Bruno qua sulla spiaggia, tutto solo? No, non va. Allora? Che faccio? Devo provare a svegliarli».
+
+Intanto Cesare continua a correre intorno ai due ragazzi abbaiando. Allora Bruno apre gli occhi. «Bravo!», esclama Giorgio, contentissimo, «come ti senti? Mi avete fatto prendere una di quelle paure! Se venivo sulla spiaggia qualche attimo più tardi, sai cosa vi succedeva?». Bruno fa di no con la testa. « Te lo dirò io, allora», dice Giorgio, «se Cesare non mi chiamava in tempo. Se arrivavo un po' più tardi, li mangiavano i pesci». «Madonna mia!», esclama Filomena alzando le braccia al cielo. «Poveri ragazzi! Venite, venite subito dentro!». E la brava donna si mette una vestaglia e va ad aprire la porta. «Presto, presto!», dice. Quando i ragazzi sono entrati,
+
+Adesso apre gli occhi anche Antonio, mentre Bruno prova ad alzarsi. «Vediamo se ce la fai a camminare», gli dice Giorgio. Bruno prova. Giorgio crede che egli ricadrà sulla sabbia. Bruno, però, rimane in piedi. «Bravo!», esclama Giorgio. Antonio invece è troppo debole.
+
+Un momento dopo, i due cugini - Giorgio portando Antonio e Bruno portando i vestiti - camminano piano piano verso la casa della signora Filomena, guidati dal bravo Cesare. I ragazzi sono ancora troppo deboli per arrivare fino a casa, ed hanno anche freddo e devono vestirsi per poter fare tutta la strada. Perciò vogliono chiedere alla signora Filomena di permettere loro di fermarsi una mezz'oretta da lei, per vestirsi e per telefonare a casa. «Chissà che cosa penserà la povera mamma se entra in camera vostra e non vi trova a letto», dice Giorgio ai due ragazzi. Poco dopo, la vecchia Filomena, dentro la casa, sente qualcuno battere alla porta: toc! toc! toc! «Chi può essere che batte alla porta a quest'ora?», pensa Filomena. Essa si alza e va alla finestra, che apre piano piano. Quello che vede davanti a casa sua fa spalancare gli occhi alla brava donna. Essa vede Giorgio che porta sulle braccia un ragazzo molto pallido, e accanto a lui un altro ragazzo, pallidissimo anche lui. La buona vecchia grida: «Che c'è? Cos'è successo?». «Stavano affogando», risponde Giorgio. «E stato Cesare che mi ha chiamato in tempo. Se arrivavo un po' più tardi, li mangiavano i pesci». «Madonna mia!», esclama Filomena alzando le braccia al cielo. «Poveri ragazzi! Venite, venite subito dentro!». E la brava donna si mette una vestaglia e va ad aprire la porta. «Presto, presto!», dice. Quando i ragazzi sono entrati, Antonio e Bruno si sdraiano su un sofà, mentre Filomena va in camera a prendere un paio di coperte. «Filomena», dice Giorgio, «io torno sulla spiaggia a prendere le mie scarpe. Intanto Lei può fare un buon caffè per riscaldare un poco quei due poveretti». «Sì, signor Brocchi, e quando tornerà qui ci sarà un buon caffè anche per Lei». Cinque minuti dopo i due ragazzi, sdraiati sul sofà, si riscaldano sotto un paio di coperte. Giorgio, tornato con le scarpe, ha telefonato alla madre di Bruno. Bruno e Antonio non sono più così deboli come prima e stanno già raccontando ciò che è successo, mentre la signora Filomena ad ogni momento alza le braccia al cielo esclamando: «Madonna mia! Poveri ragazzi!».
+
+Quando hanno bevuto il caffè e hanno finito di raccontare, i ragazzi dicono che vogliono andare a casa. Si vestono e, prima di uscire, dicono mille grazie alla brava Filomena. Ma ringraziano anche il bravo Cesare, che pare molto contento di quello che ha fatto e che adesso non fa più paura a Bruno e ad Antonio. Dieci minuti dopo entrano nel giardino della zia Giovanna, nel momento in cui e la mamma e la zia, ancora in vestaglia, seguite dalla Pia, escono di casa correndo. La Pia e la mamma baciano ed abbracciano Bruno, esclamando: «Che cos'hai fatto? Pensa che se non c'era Giorgio voi vi affogavate! ». Giorgio guarda e sorride senza dir nulla. Poi, tutti e cinque entrano in casa e il giovanotto racconta come lui e Cesare hanno salvato i due ragazzi. La piccola Pia ascolta ciò che egli racconta guardandolo con gli occhi spalancati e la bocca aperta: per lei, un uomo che ha salvato suo fratello ed il suo amico è una persona molto grande. La signora Rossi, mentre ascolta Giorgio e poi i due ragazzi, vede come in un sogno tutto ciò che è successo sulla spiaggia quella mattina. Essa non dimenticherà mai quello che ha fatto Giorgio per suo figlio, cioè per lei; ed oggi porterà una buona fetta di arrosto anche al cane della signora Filomena.
+
+
+## Capitolo ventuno (21): ANNIBALE VESPUCCI
+
+Erano le due del pomeriggio, un giorno di luglio. Roma dormiva. Il termometro segnava trenta gradi all'ombra. Al sole ne segnava quasi quaranta. Era un'estate caldissima. Le vie della capitale erano quasi vuote; con quel caldo, la gente non usciva molto volentieri; stava in casa, all'ombra. Anche i negozi erano quasi tutti chiusi, a quell'ora. Dopo aver pranzato, gli impiegati dormivano - o provavano a dormire. Con quel caldo non era sempre facile.
+
+Anche l'Albergo Massimo - un nuovo albergo di trecento camere con bagno, uno degli alberghi più grandi e più belli della capitale - dormiva in quel pomeriggio di luglio. Solo nel grande ristorante dell'albergo due o tre camerieri non dormivano perché una famiglia inglese, arrivata da Firenze poco prima, stava ancora pranzando.
+
+Alle due e mezzo uno dei camerieri del ristorante portò agli inglesi il caffè e lo zucchero che avevano domandato. Alle due e quaranta lo stesso cameriere portò in cucina le tazze e i piattini sporchi, e la famiglia inglese si alzò e lasciò il ristorante. Poco dopo, anche lì non si sentì altro che il rumore delle automobili che passavano nella strada.
+
+Ma alle tre meno cinque un tassì si fermò davanti all'Albergo Massimo, e dal tassì uscì un signore di una sessantina d'anni con sua moglie, che pareva averne una quarantina, e sua figlia, una bellissima ragazza sui diciott'anni. Al rumore che il tassì aveva fatto fermandosi, l'Albergo Massimo si svegliò. Il primo ad uscire fu un facchino, perché era lui che doveva portare dentro le valige che l'autista aveva posato accanto al tassì. Il signore, dopo aver pagato l'autista ed avergli dato in più duecento lire di mancia, domandò, voltandosi verso il facchino: «E questo l'Albergo Massimo?». «Sissignore, è questo», rispose l'uomo prendendo le valige. Il signore, seguito dalla moglie e dalla figlia, entrò nell'albergo, attraversò il vestibolo e disse al portiere: «Io sono Annibale Vespucci, di Washington». «Buongiorno, signor Vespucci», gli disse il portiere. «Sono pronte le nostre camere?», domandò Vespucci. «Sì, signor Vespucci, sono pronte da stamattina. Vogliono salire subito? ». «Sì, subito ». « Benissimo », disse il portiere. Poi chiamò un cameriere: «Antonio! Accompagna i signori ai numeri quattrocentottantasei, sette e otto». Il cameriere fece un passo verso Annibale Vespucci, volendo prendere una valigetta nera che l'americano teneva in mano da quando era sceso dal tassì, e disse: «Permette? ». Ma il signor Vespucci lo fermò con un gesto della mano: «No! questa no! Andiamo su!». «Sissignore! », disse il cameriere, e intanto pensava: «Chissà che cosa ci sarà in quella valigetta? Soldi forse? Ma, sarà uno di quelli che si portano dietro tutti i loro soldi. Deve averne molti, però, se ha bisogno di una valigia per tenerceli. E così: uno ha soldi - l'altro no». Così pensando, il cameriere aprì la porta dell'ascensore, fece entrare i Vespucci e salì con loro al quarto piano. Quando l'ascensore si fu fermato, il cameriere aprì di nuovo la porta e pregò i Vespucci di seguirlo. Le camere dei Vespucci erano le tre più belle camere dell'Albergo Massimo, e la signorina Joy Vespucci, entrando, esclamò in inglese: «Come è bello!». Poi uscì sul balcone - ogni camera dell'albergo ne aveva uno - e chiamò sua madre: «Mamma! Guarda che bella vista! Si vede tutta Roma da questo balcone!». E siccome era uscito sul balcone anche Annibale (sempre con la sua valigetta nera in mano), la signorina Joy domandò: «Quello è San Pietro, no? E quello è Castel Sant'Angelo, non è vero? ». «Sì, brava», le rispose suo padre: «Vedo che ti ricordi bene le fotografie che ti ho fatto vedere sui libri prima di partire. E quel monumento bianco, lì a sinistra, che pare tutto nuovo, ti ricordi che cos'è? ». 
+
+«Quello è ... aspetta! Ah, sì, lo so: è il monumento a Vittorio Emanuele II. E là, un po' a sinistra, c'è il Colosseo, vero? ». «Sì, sei molto brava! », disse il papà, e poi: «Ora voi due lavatevi, mettetevi un altro vestito, fate quello che volete, mentre io telefono a Carlo Rossi ». «Va bene, caro, saremo pronte per andare dai Rossi fra una mezz'oretta», disse la signora Dorabel, mentre suo marito usciva per andare in camera sua. In quel momento entrò il facchino portando le valige degli americani. «I signori non hanno bisogno di nulla?», domandò. «No, grazie», rispose Annibale, «a quanti gradi è il termometro oggi?». «Trenta gradi all'ombra, signor Vespucci», rispose il facchino e rimase lì ad aspettare chissà che. Annibale lo guardò un po' senza capire, poi capì, gli diede la mancia che quello aspettava, fece un gesto che voleva dire 'Ora va bene, può uscire', ed aggiunse: «Se abbiamo bisogno di qualcosa, chiamerò». Una mezz'ora dopo, la famiglia Vespucci uscì dall'Albergo Massimo e prese un tassì. Annibale diede all'autista l'indirizzo di Carlo Rossi: via Carducci numero 11, e lo pregò di andare piano, perché voleva far vedere un po' di Roma alla moglie ed alla figlia che non erano mai state nella capitale. «Facciamo un breve giro lungo il Tevere prima di andare all'indirizzo che Le ho dato», disse. L'autista allora andò fino a Castel Sant'Angelo e poi voltò a sinistra per andare in via Carducci.
+
+Intanto l'americano mostrava alla moglie ed alla figlia i monumenti davanti ai quali passavano: il Pantheon, la fontana di Trevi, la fontana del Tritone in Piazza Barberini. Alle quattro, il tassì si fermò davanti alla casa dei Rossi. Annibale uscì, seguito dalla bella Joy e da Dorabel, tenendo sempre in mano la valigetta nera che non aveva lasciato un solo minuto. Quando ebbe pagato l'autista, Vespucci salì con la figlia e la moglie al terzo piano e suonò all'appartamento dei Rossi.
+
+Due minuti dopo, i Vespucci erano nel salotto dei Rossi - Carlo Rossi era in casa quel pomeriggio - e Annibale raccontava il viaggio da Nuova York a Roma. Quando Annibale ebbe finito di raccontare, Carlo Rossi domandò: «E ora, cosa faranno Loro? Credo di aver capito che Lei è venuto in Italia per far vedere a Sua moglie ed a Sua figlia la patria di Suo padre». «Sì ... e no», rispose Vespucci. «Come, sì e no?», domandò Teresa Rossi. «Per tutti gli altri, sì. Per Loro, ma solo per Loro: no», disse Vespucci. «Non capisco», disse Teresa, ed aggiunse ridendo: «Tu capisci, Carlo?». Neppure Carlo capiva. Allora Annibale diede uno sguardo alla porta fra il salotto e il corridoio, pensando che la cameriera forse stava ascoltando ciò che si diceva nel salotto. Poi disse a bassa voce: «A tutti dico che sono venuto in Italia per far vedere il paese a mia moglie ed a mia figlia. Ma questo non è vero. A Loro che sono i nostri amici - Suo padre, caro Rossi, quando ancora viveva, era il migliore amico di mio padre - a Loro posso dirlo. Ecco». «Caro Vespucci, noi ascoltiamo ogni Sua parola». «Bene. Dunque, come sanno, io mi chiamo Annibale. Da piccolo, quel nome, che fu una volta quello di un grand'uomo, mi pareva molto brutto, forse perché faceva sempre ridere i miei amici. E perciò, se mi domandavano il mio nome io non lo volevo dire. Ma un giorno ho trovato un libro che raccontava la storia di Roma. A quell'età, la storia mi piaceva molto, ma non sapevo ancora nulla della storia di Roma. Ho subito cominciato a leggerlo, ed ecco che alla pagina centocinquantacinque - l'ho ancora davanti agli occhi, quella pagina - ho incontrato per la prima volta il nome di Annibale, il più grande nemico di Roma. In quel momento morì il ragazzino che trovava tanto brutto il proprio nome e nacque un nuovo Annibale, l'Annibale Vespucci che hanno davanti a Loro». Dicendo queste parole, Annibale Vespucci fece un gran gesto della mano, e posò sui Rossi uno sguardo che pareva dire: «Guardatelo bene, questo Annibale!».
+
+Poi continuò: « Allora avevo tredici anni. Da quel giorno, ho letto tutti i libri che ho potuto trovare su Annibale. E ora viene il più bello». Annibale Vespucci alzò la mano spalancando gli occhi e fissò lo sguardo su Teresa Rossi. Poi, sempre fissandola, disse: «Cinque anni fa ho trovato, in una grande biblioteca di Parigi, un libro scritto nel millesettecentocinquantanove (1759) in latino, la lingua dei Romani. Vi si parlava, come Lei ha indovinato ... «Di Annibale», esclamò Teresa. «Di Annibale», disse Vespucci, « sì, vi si parlava di lui. Quel libro, uno dei meno conosciuti sulla vita di Annibale, mi ha aperto gli occhi. Leggendolo, ho capito che tutto ciò che si era scritto sul grande Annibale era sbagliato e che nessuno, parlando di lui, aveva finora detto la verità. Perché? Perché per capire un grand'uomo uno deve conoscerlo come sé stesso o come il proprio fratello. Io, io solo, e colui che duecento anni fa aveva scritto quel libro, conoscevamo il grande nemico di Roma. Allora mi son detto che il primo a raccontare al mondo tutta la verità su Annibale dovevo essere io, Annibale Vespucci. Da quel giorno ho passato mesi e mesi in tutte le più grandi biblioteche d'Europa e d'America a leggere tutti i libri che parlavano di Annibale. In molti di quei libri, che leggevo per la seconda o per la terza volta, trovavo ora cose che prima non avevo capito, e che messe insieme facevano vivere Annibale per la seconda volta, dopo più di venti secoli. E mi sono messo a scrivere una nuova vita di Annibale, che si chiamerà 'Le vie di Annibale'. Ho già scritto più di mille pagine del mio libro, e le ho tutte qui ». E Annibale batté con la mano sulla valigetta. Teresa lo fissò per un momento, fissò quella mano che continuava a battere sulla valigia, poi disse: « Adesso credo di aver capito. Lei è venuto in Italia per vedere se ciò che ha scritto su Annibale è giusto, o se è sbagliato come quello che hanno scritto tutti gli altri. Vero?». «No! no!», esclamò Vespucci, «ogni parola che ho scritto è giusta! Annibale Vespucci non può sbagliarsi quando parla del grande Annibale! No, no, non può sbagliarsi!». «Ma allora ...». «Lei vuol dire: perché son venuto in Italia? Eh, cara signora, perché gli altri, quelli che credono di essere chissà chi, e che invece non sono nulla, crederanno a ciò che scrivo soltanto se metto loro la verità sotto gli occhi, cioè se rifaccio io stesso la strada di Annibale dalle Alpi a Capua, leggendo così, nella terra stessa d'Italia, la storia delle sue vittorie! E questa sarà la mia vittoria, più grande ancora di tutte le vittorie di Annibale sui suoi nemici romani! Il mio nome non potrà mai più essere dimenticato, Annibale Vespucci vivrà per sempre!». Vespucci si fermò di nuovo per dare ai Rossi il tempo di capire bene tutto quello che aveva detto, poi continuò: «Ma nessun altro deve saperlo. Perciò ho aspettato fino al mese di luglio prima di venire in Italia con Dorabel e Joy, come un americano in vacanza con la famiglia. Voi siete le sole persone a cui ho raccontato la verità. E vi prego di non raccontarla a nessuno ». « Glielo promettiamo », disse Carlo Rossi, ed aggiunse: «Questa poi è una di quelle verità che, anche se si raccontano, la gente non ci crede». «Va bene, La ringrazio», finì Vespucci, e, per la prima volta da quando era entrato dai Rossi, sorrise.
+
+In quel momento, entrò Bruno.
+
+
+## Capitolo ventidue (22): NAPOLI
+
+Quando arrivarono a Roma i Vespucci, Bruno Rossi non era più il ragazzo di quindici anni che giocava al pallone con gli amici e che aveva paura di Cesare, il cane della vecchia Filomena. Quando venne a Roma la famiglia Vespucci, Bruno era un bel giovanotto di vent'anni, forte, alto come suo padre. Con quei capelli nerissimi e gli occhi d'un bruno così scuro che sembravano neri anche loro, egli era un vero romano, era il 'giovane italiano' come lo sognava Joy Vespucci quando pensava al paese del nonno. Joy, lei, era bella come una 'stella' di Hollywood. Così che quando Bruno entrò nel salotto, egli si fermò un momento con lo sguardo fisso su Joy Vespucci, senza poter dire nulla. Ma fu solo un secondo. Joy abbassò lo sguardo arrossendo, e Bruno, arrossendo un po' anche lui, abbassò la testa per un momento, poi si voltò verso le altre persone presenti nel salotto.
+
+«E Suo figlio?», domandarono a Teresa Rossi i Vespucci. «Sì, è Bruno», rispose Teresa, «gli altri sono a Pisa, da mia sorella. Quando Lei ci ha scritto che veniva in Italia, noi due e Bruno siamo rimasti a Roma invece di andare ad Ostia ai primi di luglio, come gli altri anni». «E un bel giovanotto», disse Annibale Vespucci senza sentire quello che gli stava dicendo Teresa; poi a un tratto esclamò: «Ho trovato!», e fissò lo sguardo su Bruno, che lo guardò senza capire. «Ho trovato!», disse Vespucci.
+
+«Cos'hai trovato? - Che cos'ha trovato?», domandarono, chi in inglese, chi in italiano, le altre persone presenti. «Ho trovato!», ripeté Annibale. Poi disse: «Bruno! che cosa fa quest'estate?». «Io? Ma ... per ora non faccio nulla. Perché? ». Invece di rispondere, Annibale esclamò: «Benissimo! Se non ha niente da fare, Lei viene con noi!». «Con Loro?», disse il giovanotto, poi guardò un momento Joy e pensò che, se accettava, poteva forse stare vicino a lei per un paio di mesi. Perciò aggiunse: «Con vero piacere! Ma dove? Quando?». «Subito. Fra un paio di giorni. Prima a Napoli, e poi ... per ora non posso dirLe altro. Che ne dice?».
+
+Suo padre rispose per lui: «Lei è troppo gentile, grazie. Ma ... che cosa potrà fare Bruno per Loro? ». «Bruno», rispose Vespucci sorridendo, «starà con Dorabel e Joy mentre io ... mentre io andrò in giro. Così Dorabel e Joy potranno imparare un po' più d'italiano. E questo mi farà un gran piacere». E Vespucci ripeté in inglese, voltato verso la moglie e la figlia, ciò che aveva detto ai Rossi. Questa volta fu Joy che disse: «Magnifico! Grazie, papà!», e le venne subito una gran voglia di imparare bene l'italiano.
+
+Così Bruno Rossi accettò l'invito di Vespucci a fare con lui e la sua famiglia il giro dell'Italia. Prima, però, Vespucci dovette promettere di essere di ritorno a Roma per la fine di settembre. Bruno era felice, gli sembrava di essere al settimo cielo.
+
+Partirono da Roma il quattordici luglio, di mattina presto. Vespucci voleva essere a Napoli prima di mezzogiorno, per poter fare un breve giro per la città il giorno stesso. «Capirà, caro Bruno», aveva detto, «io ho altro da fare che andare in giro per le vie di Napoli. Mi basterà fare un giretto il giorno del nostro arrivo. Voi altri, invece, potrete vedere tutto quello che vorrete i giorni seguenti, mentre io cercherò ... quello che cerco». E dicendo questo Vespucci rise come un fanciullo, chiudendo l'occhio sinistro, come faceva sempre quando raccontava qualcosa che gli sembrava divertente. Così, quando i Vespucci e Bruno ebbero trovato un albergo non troppo vicino al centro della città e vi ebbero lasciato le valige, andarono a pranzare in un ristorante da dove si aveva una magnifica vista su tutta Napoli, col mare e il Vesuvio.
+
+«Papà», domandò Joy mentre il cameriere serviva la frutta, «è vero che si può andare fino sulla cima del Vesuvio?». «Sì», le rispose il padre, «c'è una strada che va quasi fino alla cima, ma certe volte non è permesso andare fino al cratere del vulcano». «Oh! che peccato!», esclamò Joy, «io che avevo tanta voglia di vedere un vero vulcano da vicino!». «Bè', allora pregheremo il nostro bravo Bruno di domandare se ci si può andare e, se si può, vi accompagnerà lui lassù». «Lo domanderò subito, miss Joy!», disse Bruno, «e se vuole, ci andremo domani». «Grazie», disse Joy.
+
+«Bè', ora scendiamo in città e facciamo un giretto lungo il mare», disse Vespucci pagando e lasciando una buona mancia. Il cameriere accompagnò gli americani fin sulla strada. «Scendiamo come siamo saliti?», domandò Dorabel quando furono in via Angelini. «Con la funicolare? Perché no? Che ne dice Lei, Bruno?», disse Vespucci. «Io? Io dico di sì», rispose Bruno dopo un breve sguardo a Joy per sapere cosa voleva lei. Poi disse: «Ma sa che ci sono tre funicolari fra il Vomero, dove ci troviamo ora, e la città bassa? ». «No, non lo sapevo», disse Vespucci. «Noi siamo venuti su con quella che parte da Piazza Montesanto. Se vogliamo passeggiare un po' lungo il mare sarà meglio prendere la Funicolare Centrale, in via Cimarosa, che ci porterà giù a due passi dalla Galleria Umberto I. Va bene? ». «Benissimo!», risposero tutti i Vespucci.
+
+Mentre scendevano in città, Joy domandò: «Bruno, che cosa è la Galleria Umberto I?». «La Galleria è una via dove è permesso andare soltanto a piedi, e sopra la quale c'è un tetto di vetro ...». «Vetro? che cos'è?», fece Joy, interrompendo Bruno. «Il vetro? Bè’ ... un bicchiere, una bottiglia sono fatti di vetro. Capisce ora?». «Sì, grazie, ho capito». «Bene. Dicevo dunque che la Galleria è una via con un tetto di vetro, nella quale ci sono molti negozi, caffè, eccetera. Umberto I, poi, era un re d'Italia, il secondo, che morì nel millenovecento (1900)». «Il secondo re? Ma ... quanti re ha avuto l'Italia? L'Inghilterra e la Francia hanno avuto molti re». «L'Italia ha avuto soltanto quattro re: il primo fu Vittorio Emanuele II ...». «Ah, sì!», esclamò Joy, interrompendo di nuovo Bruno, «il monumento a Vittorio Emanuele II a Roma, mi ricordo!». Poi, sorridendo e guardando Bruno negli occhi: «Le chiedo scusa, Bruno. La interrompo sempre quando Lei racconta qualche cosa». «Oh, non fa niente!», disse Bruno, sempre felice di sentire la voce di Joy, e continuò: «Bene. Dicevo che il primo re fu Vittorio Emanuele II. Il secondo re fu Umberto I e il terzo fu Vittorio Emanuele III. Il quarto, Umberto II, è stato re per tre sole settimane nel millenovecentoquarantasei (1946)». «E chi c'era prima del primo re? Un presidente, come negli Stati Uniti?». «No, il presidente l'abbiamo adesso. Prima di Vittorio Emanuele II non c'era nessun re perché l'Italia non era un solo stato, come la Francia o l'Inghilterra. C'erano molti piccoli stati, ma non erano uniti come quelli dell'America. L'Italia fu unita in un solo stato nel milleottocentosessantuno (1861), e Roma è capitale soltanto dal milleottocentosettanta (1870)».
+
+La funicolare intanto era arrivata. I Vespucci e Bruno uscirono e attraversarono la piazza per andare a vedere la Galleria Umberto I. Dopo aver passeggiato su e giù per la Galleria, Bruno accompagnò Joy e i suoi genitori a Castel Nuovo.
+
+«Ma Bruno!», esclamò Joy quando vide il castello, «perché si chiama 'Castel Nuovo'? E vecchio!». Vespucci e Bruno, trovando queste parole molto divertenti, risero, e allora rise anche Joy. Soltanto Dorabel Vespucci non rise: Dorabel imparava l'italiano molto meno presto di sua figlia e non aveva capito la domanda di Joy. Allora Vespucci le spiegò in inglese perché avevano riso, e intanto Bruno spiegava a Joy che il 'Castel Nuovo' si chiamava così perché, quando era stato costruito, era il più nuovo dei castelli di Napoli. «Quando è stato costruito?», domandò Joy. «Cominciarono a costruirlo verso la fine del tredicesimo (XIII) secolo, per il re di Napoli Carlo d'Angiò». «Il re di Napoli?». «Sì, Napoli, dopo il millecentotrenta (1130), ebbe per molti secoli re stranieri. Carlo d'Angiò era francese. L'ultimo re straniero lasciò Napoli solo nel milleottocentosessanta (1860)».
+
+Un quarto d'ora dopo, tutti e quattro si fermarono in un caffè dal quale si aveva una magnifica vista del mare, della città e del Vesuvio. «Questa parte di Napoli si chiama Santa Lucia», disse Bruno. Allora Joy si mise a cantare a bassa voce quella canzone napoletana che si chiama 'Santa Lucia'. A Bruno, come a molti altri italiani, quella canzone non piaceva, ma Joy aveva una così bella voce che egli non disse nulla e l'ascoltò con grandissimo piacere. Quando Joy smise di cantare, il cameriere che aveva aspettato lì vicino disse: «Come canta bene la signorina! E italiana?». «Sì, mio padre è italiano», gli rispose Joy, sorridendo felice. «Ah, lo pensavo, con una così bella voce ...», disse il cameriere, poi domandò che cosa prendevano i signori. «Prendiamo delle cassate?», disse Bruno a Joy ed ai suoi genitori. «Cassate? Che cosa sono?», domandò Joy. «La cassata è un gelato», spiegò Bruno, «una specialità siciliana, che fanno molto bene anche qui a Napoli». «Bene, allora prendiamo quattro cassate!», disse Joy al cameriere, che andò a prenderle.
+
+Quando i quattro ebbero lasciato il caffè, fecero ancora una passeggiata lungo il mare prima di tornare all'albergo, che si trovava nella parte alta della città, in Corso Vittorio Emanuele. «Bè’, che si fa domani?», domandò Bruno, «noi se possiamo andiamo al Vesuvio, e Lei, signor Vespucci?». «Io? Io ... vado a cercare farfalle a Capua». Bruno spalancò gli occhi: «Farfalle? A Capua? Perché a Capua? E perché farfalle?». I tre Vespucci risero come bambini vedendo la faccia di Bruno, ma Annibale rispose soltanto: «Perché sono belle. E poi è molto divertente. A Lei non piacciono le farfalle?». «Sì, mi piacciono molto, ma ...». Ma Annibale non volle dir altro, e né Joy né sua madre vollero dire a Bruno che cosa andava a fare a Capua Annibale Vespucci. Bruno ci pensò un momento, ma poi non ci pensò più. Aveva altro da fare che pensare alle farfalle dell'americano!
+
+
+## Capitolo ventitré (23): IL VESUVIO E POMPEI
+
+Il giorno dopo, dunque, Vespucci, come aveva detto, partì di mattina presto per Capua, promettendo di tornare prima di cena. E alle nove Bruno andò a picchiare alla porta di Dorabel Vespucci per farle sapere che si poteva partire. Dorabel chiamò sua figlia, e cinque minuti dopo tutti e tre erano riuniti nel vestibolo dell'albergo.
+
+«Bè'?», disse Joy, rivolgendosi a Bruno. «Bè'?», rispose Bruno ridendo, e poi, rivolgendosi in inglese alla madre: «Cara signora, oggi andiamo al Vesuvio e scendiamo nel cratere». «Nel ...?», fece Dorabel con un piccolo grido di paura, e Bruno, sempre ridendo, spiegò: «Che vuole, cara signora? E un ordine di miss Joy, e Lei sa che quando Sua figlia ha dato un ordine: 'Fate questo! Fate quello!', bisogna farlo, sennò ...!». «E vero», disse la signora Vespucci, guardando il giovanotto con un sorriso, «quando Joy si è messa in testa una cosa non c'è nulla da fare, bisogna obbedirle!».
+
+Questa volta fu Joy a ridere, mentre diceva a Bruno: «Lei non deve credere a ciò che dice la mamma! Perché io non do mai ordini a nessuno!». «Va bene, va bene!», disse Bruno, «ordine o non ordine, noi oggi, cara signora Vespucci, andiamo al Vesuvio. Se Lei vuole, scenderemo tutti giù nel cratere, sennò rimaniamo su». «Grazie», disse Dorabel, poi domandò: «Come ci andiamo, al Vesuvio? In treno? In torpedone?». «Ci sono parecchi modi per arrivare in cima al Vesuvio», disse Bruno: «Si può prendere il torpedone fino a Resina o fino a Torre Annunziata, e da lì un tassì o un torpedone più piccolo; si può anche prendere un tassì già da Napoli, ma è troppo caro e si vede troppo poco. Oppure si può prendere la ferrovia; si scende a Pugliano, dove si prende un torpedone, o un'altra ferrovia che sale fino a settecentocinquanta metri. Da lì alla cima del vulcano si va in seggiovia». «Seggiovia? Che cos'è?», domandò Joy. E Bruno spiegò: «Una seggiovia? Bè’ ..., sono delle sedie che salgono e scendono per portare la gente su e giù ...». «Bene! Io voglio andare in seggiovia!», esclamò Joy, «prendiamo il treno!». «Ordine di miss ...», cominciò Bruno, ma non finì, perché Joy alzò la mano come per picchiare il giovanotto, che si fermò dicendo: «Non ho detto niente! Non è ordine di nessuno. Prendiamo il treno perché lo vogliamo tutti e tre! Andiamo al Corso Garibaldi, dove c'è la stazione della ferrovia. Se non mi sbaglio, c'è un treno che parte fra un quarto d'ora. Bisogna far presto, sennò arriviamo in ritardo». «Dunque, prendiamo un tassì», disse Dorabel.
+
+Il tassì dovette fermarsi parecchie volte fra il Corso Vittorio Emanuele e il Corso Garibaldi, cosicché i tre arrivarono alla stazione solo un minuto prima della partenza del treno. Ma siccome anche il treno aveva un po' di ritardo, fecero in tempo a pagare il tassì, comprare i biglietti e salire in carrozza. Pochi momenti dopo, il treno lasciava la stazione.
+
+Mentre il treno faceva i circa di dieci chilometri che ci sono fra Napoli e Pugliano, Bruno raccontò a Dorabel e a Joy quello che aveva letto il giorno prima sul Vesuvio. «Sulle fotografie del Vesuvio che Loro avranno visto, dal vulcano, penso, sarà salito del fumo. Di notte, si vedeva spesso anche del fuoco che saliva dalla cima del Vesuvio. Ma ora, già dal millenovecentoquarantaquattro (1944), dal Vesuvio non sale più né fumo né fuoco. In quell'anno lì, c'è stata una grande eruzione che non ha fatto morti, ma che ha distrutto parecchie case. Molto più grandi furono le eruzioni della fine del diciottesimo secolo, che distrussero la piccola città di Torre del Greco, a una quindicina di chilometri da Napoli, come pure le eruzioni della fine del secolo scorso e quella del millenovecentosette (1907). Ci furono anche molte altre eruzioni, come quella del milleseicentotrentuno (1631), che distrusse quasi tutte le piccole città ai piedi del vulcano. Però l'eruzione più conosciuta è quella dell'anno settantanove dopo Cristo, che distrusse le città romane di Pompei, Ercolano, Stabia e una parte della stessa Napoli.
+
+Era un giorno d'agosto, e nella città di Pompei sembrava un giorno come tutti gli altri: le vie erano piene di carri e di gente; gente che passeggiava e gente che camminava presto per non essere in ritardo, giovani e vecchi, donne, bambini, qualche cane che cercava da mangiare. Tutti parlavano ad alta voce, gridavano, cantavano, ridevano come oggi nelle piccole città italiane. Pompei aveva non più di ventimila abitanti e non era dunque una grande città. Però, da tutte le parti del mondo, mille cose arrivavano tutti i giorni nei numerosi negozi e nelle botteghe di Pompei».
+
+Qui Joy interruppe Bruno per domandargli che differenza c'era fra un negozio e una bottega. «La differenza è spesso piccola», spiegò il giovanotto, «posso solo dire che un negozio può essere molto grande, mentre una bottega no. Così, nei grandi negozi di Roma, Napoli, Milano e molte altre città si vende quasi di tutto». «Grazie», disse Joy, e Bruno continuò:
+
+«Come ho detto, la vita di Pompei fu interrotta dal Vesuvio quasi venti secoli fa, in un giorno d'agosto. Fu un'eruzione terribile. Il cielo si fece tutto nero, il rumore era così forte che quasi non si sentivano le grida terribili della gente. Ognuno aveva in testa una cosa sola: salvarsi e salvare i suoi cari. Quelli che avevano un carro non arrivarono fuori della città molto prima degli altri, perché nelle vie piene di gente i carri non potevano correre. Circa duemila persone morirono quel giorno a Pompei». «Duemila soltanto?», domandò Dorabel Vespucci. «E perché, non Le bastano duemila?», disse Bruno. «Sì, oh sì! mi bastano!», disse Dorabel, «ma ... quando penso che nel quarantacinque, a Hiroshima, ci furono in pochi minuti più di settantamila morti, Lei capirà che i duemila di Pompei mi sembrano pochi».
+
+«Ma mamma, come può dire una cosa così ... così terribile!», esclamò Joy, «io trovo che duemila morti in una città così piccola sono moltissimi!». «Va bene, va bene, cara Joy», disse Dorabel, «come vuoi. Diciamo che non ho detto nulla e che sono molti». «Molti o pochi», disse in quel momento Bruno, «eccoci intanto arrivati a Pugliano, dove dobbiamo prendere la Ferrovia Vesuviana che ci porterà fino alla stazione della seggiovia. Scendiamo dunque, di Pompei riparleremo più tardi».
+
+Tutti e tre scesero dal treno e salirono in una carrozza della Vesuviana che aspettava lì vicino. Poco dopo, arrivarono alla stazione della seggiovia. Dorabel non volle prendere il primo seggiolino e lo lasciò a Bruno. Prese il seguente, mentre Joy prese il terzo. Sette minuti dopo erano arrivati a pochi passi dalla cima del vulcano. Quando ognuno fu sceso dal suo seggiolino e tutti e tre furono di nuovo riuniti, Dorabel esclamò guardando la vista magnifica: «Hai visto, Joy? Questa è l'Italia! Ora capisco perché si dice: 'Vedi Napoli e poi muori!'. Com'è bello!».
+
+Era infatti un bellissimo panorama: lontano, a destra, il golfo di Gaeta; poi, più vicino, le isole di Procida e d'Ischia, il golfo di Pozzuoli, poi il golfo di Napoli con Napoli stessa, e a sinistra Pompei, Sorrento e la bellissima isola di Capri.
+
+«Eh! cara signora Vespucci», disse Bruno, «i turisti vengono a Napoli dai più lontani paesi del mondo solo per vedere questo panorama». «Pompei ... Sorrento ... Capri ...», disse Joy a bassa voce, «sembra un sogno. Ci andremo anche noi, vero? In America ho sentito parlare così spesso di quei luoghi». «E Lei non può lasciare l'Italia senza esserci stata», disse il giovanotto; poi continuò: «Se vogliono, andremo una prima volta a Pompei stasera stessa». «Stasera?», domandò Dorabel, «ma allora non vedremo nulla!». «Sì, sì, vedremo quasi più che di giorno, perché di notte, in estate, Pompei o, per essere giusti, i più bei monumenti di Pompei sono illuminati da centinaia di proiettori. E magnifico!». «Pompei, una città del tempo dei Romani, illuminata da proiettori venti secoli dopo: ciò è molto italiano!», disse Dorabel, guardando giù, verso la città morta, ma non dimenticata. «E ora», domandò Joy a Bruno quando ebbero guardato il panorama per un quarto d'ora, «scendiamo nel cratere?». «Va bene, se vuole. Prima però bisogna salire fino alla cima del vulcano. Come vede, è a due passi da dove ci troviamo ora. Siamo a un'altezza di circa millecentoquaranta (1140) metri, e l'altezza del cratere è di circa milleduecentocinquanta (1250) metri. Ah! Dimenticavo di aggiungere», disse Bruno mentre salivano alla cima del vulcano, «che è vietato scendere nel cratere del Vesuvio se non si è accompagnati da una guida». «Oh! perché è vietato?», domandò Joy, «Lei ci ha detto poco fa che il Vesuvio era morto fin dal quarantiquattro, no? E allora? Perché ci vuole una guida per scendere nel cratere?». «Ma non è mica vietato scendere nel cratere da soli perché si ha paura del Vesuvio! No, non per questo, ma perché si può cadere e farsi male se si scende da soli. Le guide conoscono il cratere come le proprie tasche, sanno dove bisogna mettere i piedi, cosicché con loro si può essere sicuri di non cadere».
+
+«Joy», domandò la povera signora Vespucci quando furono arrivati su e guardarono giù nel cratere, «è veramente necessario scendere in quel terribile luogo? Non ti basta di essere arrivata quassù?». «No, cara mammina», rispose la figlia, «non potrò mai raccontare alle mie amiche di Washington che sono stata in cima al Vesuvio senza scendere nel cratere». «Va bene, va bene», disse Dorabel, «scendiamo ...». «Ma mamma, chi ti dice che devi scendere anche tu? Tu puoi rimanere quassù mentre Bruno ed io scendiamo con la guida». «No, no, se scendete nel cratere voi, ci scendo anch'io. Bruno, Lei vede una guida?». «Sì, ne vedo una che viene quassù dalla stazione della seggiovia per scendere nel cratere con altri turisti. Forse potremo andare con loro. Domandiamoglielo!».
+
+La guida accettò, gli altri turisti non dissero niente neanche loro, e così Bruno, Joy e Dorabel poterono scendere quel giorno nel cratere del Vesuvio, come aveva voluto miss Joy.
+
+
+## Capitolo ventiquattro (24):
+
+
+
+## Capitolo venticinque (25):
+
+
+
+## Capitolo ventisei (26):
+
+
+
+## Capitolo ventisette (27):
+
+
+
+## Capitolo ventotto (28):
+
+
+
+## Capitolo ventinove (29):
+
+
+
+## Capitolo trenta (30):
+
+
+
+## Capitolo trentuno (31):
+
+
+
+## Capitolo trentadue (32):
+
+
+
+## Capitolo trentatré (33):
+
+
+
+## Capitolo trentaquattro (34):
+
+
+
+## Capitolo trentacinque (35):
+
+
+
+## Capitolo trentasei (36):
+
+
+
+## Capitolo trentasette (37):
+
+
+
+## Capitolo trentotto (38):
+
+
+
+## Capitolo trentanove (39):
+
+
+
+## Capitolo quaranta (40):
+
+
+
+## Capitolo quarantuno (41):
+
+
+
+## Capitolo quarantadue (42):
+
+
+
+## Capitolo quarantatré (43):
+
+
+
+## Capitolo quarantaquattro (44):
+
+
+
+## Capitolo quarantacinque (45):
+
+
+
+## Capitolo quarantasei (46):
+
+
+
+## Capitolo quarantasette (47):
+
+
+
+## Capitolo quarantotto (48):
+
+
+
+## Capitolo quarantanove (49):
+
+
+
+## Capitolo cinquanta (50):
