@@ -1079,7 +1079,7 @@ che non vuole quel pezzo perché non ha più fame, e
 Teresa Rossi allora lo dà a Bruno.
 
 Quando i Rossi hanno mangiato il pollo, chiamano
-dice la donna per dirle: «Com’é buono il pollo, Amelia!».
+dice la donna per dirle: «Com’è buono il pollo, Amelia!».
 «Grazie, grazie!», dice Amelia. Poi, come ha fatto
 prima, porta in cucina i piatti sporchi e mette un
 piatto pulito davanti a ciascuno dei Rossi. Poi esce
