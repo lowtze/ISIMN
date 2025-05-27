@@ -9,6 +9,7 @@ cover-image: "../images/cover.png"
 ## Contents
 
 - [Contents](#contents)
+- [PREFAZIONE](#prefazione)
 - [Capitolo uno (1): LA FAMIGLIA ROSSI](#capitolo-uno-1-la-famiglia-rossi)
 - [Capitolo due (2): CITTÀ E PAESI](#capitolo-due-2-città-e-paesi)
 - [Capitolo tre (3): NOMI E COGNOMI](#capitolo-tre-3-nomi-e-cognomi)
@@ -59,6 +60,41 @@ cover-image: "../images/cover.png"
 - [Capitolo quarantotto (48):](#capitolo-quarantotto-48)
 - [Capitolo quarantanove (49):](#capitolo-quarantanove-49)
 - [Capitolo cinquanta (50):](#capitolo-cinquanta-50)
+
+
+## PREFAZIONE
+
+Il nostro corso «English by the Nature Method» ha suscitato enorme interesse in tutta l'Europa Occidentale, sia fra i linguisti, sia tra le persone desiderose di imparare l'inglese. Gli studiosi hanno ammirato in esso una felice applicazione pratica dei principii che informano la più moderna scienza linguistica. Il gran pubblico ha apprezzato senza riserve la novità del metodo e gli eccezionali risultati che con esso si raggiungono. Dal 1945 ad oggi, più di 850.000 persone hanno imparato l'inglese col «Metodo Natura».
+
+Un tale successo ci ha indotti a insegnare altre lingue con lo stesso procedimento. Così sono nati il corso di francese «Le Français par la Méthode Nature», il corso di latino «Lingua Latina secundum naturae rationem explicata», ed esce ora «L'Italiano secondo il Metodo Natura».
+
+Questo non è un atto di fede nei destini dell'italiano; è piuttosto la concreta risposta a una esigenza fortemente sentita in tutto il mondo, e specialmente nei paesi anglosassoni, dove l'interesse per l'italiano e per l'Italia è vivo e molteplice, assai più di quanto gli italiani stessi non immaginino.
+
+L'elaborazione di questo corso ha richiesto alcuni anni di assidua fatica da parte di un gruppo di specialisti di lingua e cultura italiana, molti dei quali erano particolarmente versati anche nei problemi pratici dell'insegnamento dell'italiano agli stranieri. Tali specialisti hanno collaborato per il collaudo di ogni sua parte, compito specialmente delicato poiché si era trattato di creare un vero e proprio «romanzo» inedito entro i limiti di un vocabolario prestabilito e secondo le ferree esigenze del «Metodo Natura» per l'introduzione di voci e forme grammaticali nuove.
+
+Il lavoro si è svolto sotto la costante direzione di Arthur M. Jensen, il creatore del «Metodo Natura», a cui spetta dunque la piena responsabilità per la rigorosa applicazione di tale metodo nel presente corso. Ciò non diminuisce in alcun modo la nostra profonda riconoscenza a tutti gli studiosi che hanno lavorato alla preparazione e al collaudo del corso, e specialmente a Oleg Koefoed, cui si deve la stesura del detto «romanzo».
+
+Per la pronuncia e la trascrizione fonetica, Arthur M. Jensen ha adottato il sistema di segni stabilito dall' "Association Phonétique Internationale» e si è fondato su «Pronuncia e grafia dell'italiano» (2a ed., Firenze 1947) di Amerindo Camilli, del quale è stata preziosa anche la diretta consulenza. Per la parte linguistica hanno fornito un sicuro fondamento le molte opere di Bruno Migliorini, e specialmente l'ultima edizione, da lui curata, del «Vocabolario della lingua italiana» di G. Cappuccini (Torino, 1958). È appena il caso di avvertire che alcune apparenti incongruenze della trascrizione sono invece frutto di un meditato esame; per esempio, non si nota l'accento se esso cade sulla penultima sillaba, e tuttavia si è indicato anche in molte parole piane per cui l'esperienza didattica assicura che, specie in certi paesi, l'allievo tende a dimenticare la norma e a dare un'accentuazione sbagliata.
+
+Non ci resta che esporre per sommi capi i principii fondamentali del «Metodo Natura», validi per l'insegnamento dell'italiano come per quello di qualsiasi altra lingua.
+
+Il vocabolario che l'allievo acquisisce col «Metodo Natura» consta di circa cinquemila parole, che comprendono non solo le più frequenti del lessico italiano, ma anche molti vocaboli necessari per avvicinarsi alla cultura italiana. A tal fine, ricerche originali hanno permesso di modificare e integrare i noti elenchi lessicali di T. M. Knease («An Italian Word List from Literary Sources»), di Bruno Migliorini («Der grundlegende Wortschatz des Italienischen»), ecc. È statisticamente provato che questi cinquemila vocaboli costituiscono all'incirca il 90-95% di tutte le parole che si incontrano in un testo italiano di media difficoltà: perciò il nostro corso porta l'allievo a un grado di maturità linguistica che gli consente di leggere e di comprendere da sé i testi di italiano corrente.
+
+Le parole nuove sono introdotte gradualmente, alla media di una per ogni 25-30 parole già note, e ricorrono in contesti che escludono ogni ambiguità di interpretazione: perciò il loro significato risulta chiarito dall'insieme dell'espressione e viene assimilato in modo naturale, nel tessuto di un discorso di senso compiuto. La ripetizione costante dei vocaboli in contesti sempre opportunamente variati permette all'allievo di afferrare senza sforzo l'ampiezza semantica del vocabolo, le sue varie possibilità di associazione con altri vocaboli, il suo colorito stilistico (è appunto per questa indispensabile ripetizione che il nostro corso consta di un testo molto più lungo e variato di quelli che solitamente si fanno leggere ai principianti). In tal modo, si esclude qualsiasi apprendimento meccanico, affidato a un puro sforzo mnemonico che non ha alcun riscontro nel processo con cui si impara la lingua materna.
+
+Anche le nozioni grammaticali vengono introdotte gradualmente, secondo gli stessi criteri che regolano la comparsa dei nuovi vocaboli.
+
+Ne consegue che il nostro testo, dalla prima all'ultima pagina, «si spiega immediatamente da sé» e può così venire assimilato dagli allievi senza mai ricorrere all'intermediario della lingua materna. Anzi, chi studia col «Metodo Natura» è costretto fin dal principio a prescindere dalla sua lingua materna e si abitua a pensare direttamente in italiano, secondo schemi sempre più vasti e complessi, ma sempre genuinamente italiani.
+
+È appunto questa la novità essenziale dei nostri corsi, apparentemente non dissimili da altre applicazioni del metodo diretto, e che giustifica il nome di «Metodo Natura» per un procedimento che riproduce le condizioni in cui qualsiasi essere umano impara per pratica la propria lingua materna (l'aspetto innaturale del nostro metodo consiste, se mai, nel creare tali condizioni secondo un calcolo prestabilito, in modo da portare l'allievo a una conoscenza sistematica con un minimo sforzo e senza dispersione di energie).
+
+L'amplissima trascrizione fonetica, semplice e precisa, elimina ogni possibilità di dubbio e permette una rapida e sicura acquisizione della pronuncia di ciascuna parola nel vivo dell'espressione compiuta.
+
+I testi presentano la lingua dell'uso quotidiano fra le persone colte. In altri termini, pur nel rispetto di una tradizione grammaticale in cui si sostanzia il corretto uso della lingua, essi tengono conto di tendenze e correnti ormai affermatesi o comunque vivamente sentite nell'italiano contemporaneo e rispecchiano, quando ciò è opportuno, la varietà e vivacità sintattica della lingua parlata.
+
+Noi ci auguriamo che «L'Italiano secondo il Metodo Natura» abbia lo stesso successo dei corsi che lo hanno preceduto e possa contribuire in tal modo alla sempre maggiore diffusione della cultura italiana, che è una delle pietre angolari della civiltà occidentale.
+
+*Gli Editori*
 
 
 ## Capitolo uno (1): LA FAMIGLIA ROSSI
