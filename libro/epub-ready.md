@@ -1,68 +1,12 @@
 ---
-title: "L'Italiano Secondo il Metodo Natura"
+title: L'Italiano Secondo il Metodo Natura
 author: Arthur M. Jensen
 date: 1962
 lang: it
 cover-image: "../images/cover.png"
 ---
 
-## Contents
-
-- [Contents](#contents)
-- [PREFAZIONE](#prefazione)
-- [Capitolo uno (1): LA FAMIGLIA ROSSI](#capitolo-uno-1-la-famiglia-rossi)
-- [Capitolo due (2): CITTÀ E PAESI](#capitolo-due-2-città-e-paesi)
-- [Capitolo tre (3): NOMI E COGNOMI](#capitolo-tre-3-nomi-e-cognomi)
-- [Capitolo quattro (4): L'ANNO](#capitolo-quattro-4-lanno)
-- [Capitolo cinque (5): LE STAGIONI](#capitolo-cinque-5-le-stagioni)
-- [Capitolo sei (6): GIORNO E NOTTE](#capitolo-sei-6-giorno-e-notte)
-- [Capitolo sette (7): LA MATTINA](#capitolo-sette-7-la-mattina)
-- [Capitolo otto (8): I PASTI](#capitolo-otto-8-i-pasti)
-- [Capitolo nove (9): IL COMPLEANNO](#capitolo-nove-9-il-compleanno)
-- [Capitolo dieci (10): IN VIA DEL CORSO](#capitolo-dieci-10-in-via-del-corso)
-- [Capitolo undici (11): IL PRANZO](#capitolo-undici-11-il-pranzo)
-- [Capitolo dodici (12): LA CENA](#capitolo-dodici-12-la-cena)
-- [Capitolo tredici (13): L'INCIDENTE](#capitolo-tredici-13-lincidente)
-- [Capitolo quattordici (14): I REGALI DI BRUNO](#capitolo-quattordici-14-i-regali-di-bruno)
-- [Capitolo quindici (15): BRUNO PUÒ ALZARSI](#capitolo-quindici-15-bruno-può-alzarsi)
-- [Capitolo sedici (16): DOMANI ANDIAMO A PISA](#capitolo-sedici-16-domani-andiamo-a-pisa)
-- [Capitolo diciassette (17): IL SOGNO DI BRUNO](#capitolo-diciassette-17-il-sogno-di-bruno)
-- [Capitolo diciotto (18): IL VIAGGIO](#capitolo-diciotto-18-il-viaggio)
-- [Capitolo diciannove (19): UN BAGNO CHE FINISCE MALE](#capitolo-diciannove-19-un-bagno-che-finisce-male)
-- [Capitolo venti (20): BRAVO CESARE!](#capitolo-venti-20-bravo-cesare)
-- [Capitolo ventuno (21): ANNIBALE VESPUCCI](#capitolo-ventuno-21-annibale-vespucci)
-- [Capitolo ventidue (22): NAPOLI](#capitolo-ventidue-22-napoli)
-- [Capitolo ventitré (23): IL VESUVIO E POMPEI](#capitolo-ventitré-23-il-vesuvio-e-pompei)
-- [Capitolo ventiquattro (24): POMPEI DI NOTTE](#capitolo-ventiquattro-24-pompei-di-notte)
-- [Capitolo venticinque (25): CAPRI](#capitolo-venticinque-25-capri)
-- [Capitolo ventisei (26): IL MONTE SOLARO](#capitolo-ventisei-26-il-monte-solaro)
-- [Capitolo ventisette (27): DORABEL VISITA NAPOLI](#capitolo-ventisette-27-dorabel-visita-napoli)
-- [Capitolo ventotto (28): UNA SERA A SORRENTO](#capitolo-ventotto-28-una-sera-a-sorrento)
-- [Capitolo ventinove (29): IL MACIGNO](#capitolo-ventinove-29-il-macigno)
-- [Capitolo trenta (30): FINE DEL TEMPORALE](#capitolo-trenta-30-fine-del-temporale)
-- [Capitolo trentuno (31): AMALFI](#capitolo-trentuno-31-amalfi)
-- [Capitolo trentadue (32): ARRIVA LA BENZINA](#capitolo-trentadue-32-arriva-la-benzina)
-- [Capitolo trentatré (33): LA SCOPERTA DI ANNIBALE](#capitolo-trentatré-33-la-scoperta-di-annibale)
-- [Capitolo trentaquattro (34): LA FUGA DI ANNİBALE](#capitolo-trentaquattro-34-la-fuga-di-anni̇bale)
-- [Capitolo trentacinque (35): STORIA DEI DUE LADRI](#capitolo-trentacinque-35-storia-dei-due-ladri)
-- [Capitolo trentasei (36): L'ANELLO DI ANNIBALE](#capitolo-trentasei-36-lanello-di-annibale)
-- [Capitolo trentasette (37): FONDAZIONE E ORIGINI DI ROMA](#capitolo-trentasette-37-fondazione-e-origini-di-roma)
-- [Capitolo trentotto (38): IL FORO ROMANO](#capitolo-trentotto-38-il-foro-romano)
-- [Capitolo trentanove (39): IL COLOSSEO](#capitolo-trentanove-39-il-colosseo)
-- [Capitolo quaranta (40): SAN PIETRO E IL VATICANO](#capitolo-quaranta-40-san-pietro-e-il-vaticano)
-- [Capitolo quarantuno (41): VITA DI MICHELANGELO](#capitolo-quarantuno-41-vita-di-michelangelo)
-- [Capitolo quarantadue (42): VITA DI MICHELANGELO (FINE)](#capitolo-quarantadue-42-vita-di-michelangelo-fine)
-- [Capitolo quarantatré (43): FIRENZE](#capitolo-quarantatré-43-firenze)
-- [Capitolo quarantaquattro (44): ARRIVO A VENEZIA](#capitolo-quarantaquattro-44-arrivo-a-venezia)
-- [Capitolo quarantacinque (45): LEGGENDE E TRADIZIONI VENEZIANE](#capitolo-quarantacinque-45-leggende-e-tradizioni-veneziane)
-- [Capitolo quarantasei (46): LA SERENISSIMA](#capitolo-quarantasei-46-la-serenissima)
-- [Capitolo quarantasette (47): ADDIO, VENEZIA!](#capitolo-quarantasette-47-addio-venezia)
-- [Capitolo quarantotto (48): LE ALPI](#capitolo-quarantotto-48-le-alpi)
-- [Capitolo quarantanove (49): LA DICHIARAZIONE MANCATA](#capitolo-quarantanove-49-la-dichiarazione-mancata)
-- [Capitolo cinquanta (50): NON TUTTO È BÈNE QUEL CHE FINISCE BÈNE](#capitolo-cinquanta-50-non-tutto-è-bène-quel-che-finisce-bène)
-
-
-## PREFAZIONE
+# PREFAZIONE {epub:type=prologue}
 
 Il nostro corso «English by the Nature Method» ha suscitato enorme interesse in tutta l'Europa Occidentale, sia fra i linguisti, sia tra le persone desiderose di imparare l'inglese. Gli studiosi hanno ammirato in esso una felice applicazione pratica dei principii che informano la più moderna scienza linguistica. Il gran pubblico ha apprezzato senza riserve la novità del metodo e gli eccezionali risultati che con esso si raggiungono. Dal 1945 ad oggi, più di 850.000 persone hanno imparato l'inglese col «Metodo Natura».
 
@@ -96,8 +40,7 @@ Noi ci auguriamo che «L'Italiano secondo il Metodo Natura» abbia lo stesso suc
 
 *Gli Editori*
 
-
-## Capitolo uno (1): LA FAMIGLIA ROSSI
+# Capitolo uno (1): LA FAMIGLIA ROSSI
 
 Carlo Rossi è un uomo. Teresa Rossi è una donna. Bruno è un bambino.
 Pietro è un bambino. Maria è una bambina. Anche Pia è una bambina.
@@ -186,8 +129,7 @@ un fratello. Ha fratelli Maria? Sì, Maria ha due fratelli. Ha due
 sorelle Maria? No, Maria non ha due sorelle; ha una sorella e due
 fratelli.
 
-
-## Capitolo due (2): CITTÀ E PAESI
+# Capitolo due (2): CITTÀ E PAESI
 
 Roma è una città. Anche Milano e Parigi sono città. Parigi è una
 città di Francia. Milano e Roma sono città d'Italia. La Francia è
@@ -254,8 +196,7 @@ La Sardegna è un'isola. Anche la Sicilia è un'isola. La Sicilia e la
 Sardegna sono grandi isole italiane. L'Italia ha poche isole grandi, ma
 molte isole piccole. Capri e Ischia sono isole piccole.
 
-
-## Capitolo tre (3): NOMI E COGNOMI
+# Capitolo tre (3): NOMI E COGNOMI
 
 I Rossi sono sei: Carlo e Teresa Rossi, Bruno, Pietro, Maria e Pia.
 «Carlo» e «Teresa» sono due nomi, «Rossi» è un cognome. «Carlo» è il
@@ -341,8 +282,7 @@ loro genitori. Le madri dei loro genitori sono le loro nonne. La madre
 di Carlo Rossi, la signora Giovanna Rossi, è nonna dei bambini, e anche
 la madre di Teresa Rossi è nonna dei bambini.
 
-
-## Capitolo quattro (4): L'ANNO
+# Capitolo quattro (4): L'ANNO
 
 Gennaio è un mese. Anche dicembre è un mese. Dodici mesi si chiamano un
 anno. Gennaio è il primo mese dell'anno. Dicembre è l'ultimo mese
@@ -435,8 +375,7 @@ signor Giuseppe Rossi. E qual è il più giovane dei due genitori? La più
 giovane dei due è la madre. Il meno vecchio dei due nonni qual è? Il
 meno vecchio è il signor Gherardo Brunotti.
 
-
-## Capitolo cinque (5): LE STAGIONI
+# Capitolo cinque (5): LE STAGIONI
 
 A Roma, i Rossi stanno in una casa grande, ma ad Ostia la famiglia Rossi
 ha una casa piccola in un gran giardino. I Rossi non stanno nella loro
@@ -516,8 +455,7 @@ Italia? Ci sono in agosto e in settembre. In che stagione ci sono degli
 aranci in Italia? Ci sono d'estate e in autunno, ma in Sicilia anche
 d'inverno e in primavera.
 
-
-## Capitolo sei (6): GIORNO E NOTTE
+# Capitolo sei (6): GIORNO E NOTTE
 
 Il giorno e la notte durano ventiquattr'ore. D'inverno, la notte dura
 più di dodici ore, d'estate dura meno di dodici ore. Il giorno dura più
@@ -641,8 +579,7 @@ quarto non sarà più in casa, ma al parco. Dai mesi di aprile o maggio ai
 mesi di ottobre o novembre Pia va al parco tutti i giorni e ci sta tutti
 i giorni fino alle sei.
 
-
-## Capitolo sette (7): LA MATTINA
+# Capitolo sette (7): LA MATTINA
 
 Che ore sono? Sono le sette di mattina. I bambini sono nei loro letti. I
 bambini dormono. Però non dormono tutti. Bruno e Pietro dormono ancora,
@@ -763,8 +700,7 @@ andrà più. Dieci anni fa, Pietro non c'era ancora, non c'era neanche
 Pia, e Bruno aveva che cinque anni e stava a casa con la mamma e la
 piccola Maria di tre anni.
 
-
-## Capitolo otto (8): I PASTI
+# Capitolo otto (8): I PASTI
 
 All'una e alle otto di sera, tutta la famiglia Rossi è a tavola. Cosa fa la famiglia Rossi quando è a tavola? Mangia. Come molte famiglie italiane, i Rossi mangiano tre volte al giorno. I Rossi fanno tre pasti: il primo pasto (alle sette e mezzo o alle otto di mattina) si chiama «colazione»; il secondo pasto (all'una o all'una e mezzo) si chiama «pranzo»; il terzo pasto (alle otto o alle otto e mezzo di sera) si chiama «cena». Molte famiglie non mangiano che tre volte al giorno, come i Rossi, ma altre famiglie fanno un quarto, piccolo pasto alle cinque del pomeriggio. A che ora fa colazione la famiglia Rossi? La famiglia Rossi fa colazione alle otto di mattina. A che ora pranzano i Rossi? Pranzano all'una. E a che ora cena la famiglia? Cena alle otto di sera. Quando i Rossi pranzano e cenano, ci sono sei persone a tavola: i genitori e i quattro bambini. Non tutti gli italiani fanno colazione alla stessa ora dei Rossi: gli uni fanno colazione prima dei Rossi (alle sette e mezzo o prima ancora), gli altri più tardi dei Rossi (alle otto e mezzo o più tardi ancora). Però, neanche i Rossi non fanno colazione alla stessa ora tutti i giorni: la domenica, fanno colazione alle otto e mezzo. Non tutte le persone in Italia pranzano alla stessa ora dei Rossi: ci sono delle persone che pranzano prima dei Rossi, ce ne sono che pranzano più tardi. E neanche tutti gli italiani non cenano alla stessa ora dei Rossi: c'è molta gente in Italia che cena prima dei Rossi, ce n'è molta che cena più tardi di loro. Però, neanche i Rossi non cenano sempre alla stessa ora: molti giorni cenano più tardi, alle otto e mezzo, e a Ostia cenano sempre più tardi che a Roma.
 
@@ -786,8 +722,7 @@ Il signor Rossi versa del vino nel suo bicchiere, nel bicchiere di sua moglie e 
 
 Cosa c'è sopra la tavola a pranzo e a cena? C'è una tovaglia. E che cosa c'è davanti a ogni persona? Ci sono un tovagliolo, un bicchiere, un piatto e, a destra e a sinistra del piatto, un coltello, un cucchiaio e una forchetta. Che cosa c'è sotto le tazze? Ci sono i piattini. E sopra il piattino? C'è un cucchiaino.
 
-
-## Capitolo nove (9): IL COMPLEANNO
+# Capitolo nove (9): IL COMPLEANNO
 
 Oggi è il cinque aprile, e Teresa Rossi ha trentasei anni. Ieri, quattro
 aprile, Teresa Rossi non aveva ancora trentasei anni, ma oggi, cinque
@@ -902,8 +837,7 @@ borsetta di Firenze: bianca e nera». Lucia: «Bianca e nera? È bella,
 no?». Maria: «Sì, molto bella». E fino al Corso, Maria racconta a sua
 cugina com'è la borsetta della mamma.
 
-
-## Capitolo dieci (10): IN VIA DEL CORSO
+# Capitolo dieci (10): IN VIA DEL CORSO
 
 Quando i Rossi e i Benelli sono in via del Corso, Carlo Rossi domanda a
 sua moglie: «E ora, Teresa, che cosa facciamo?». «Cosa facciamo ora?»,
@@ -1030,8 +964,7 @@ genitori e le tre bambine) vanno fuori per vedere dove sono i tre
 cugini. E poco dopo il signor Rossi compra dei gelati per i bambini.
 Allora, tutti sono contenti.
 
-
-## Capitolo undici (11): IL PRANZO
+# Capitolo undici (11): IL PRANZO
 
 I Rossi hanno un grande appartamento. È un appartamento di otto stanze, una cucina e un corridoio. Le otto stanze dell'appartamento dei Rossi sono: le tre stanze da letto dei genitori e dei bambini, la sala da pranzo, il salotto --- dove va la famiglia dopo i pasti ---, il bagno, l'entrata, la camera di Amelia. Chi è Amelia? È la donna di servizio dei Rossi. Cosa fa Amelia? Essa prepara i pasti della famiglia e lava i piatti. Però non fa solo quello. Essa fa pure molte altre cose. Per entrare in camera sua, Amelia deve prima entrare in cucina.
 
@@ -1139,8 +1072,7 @@ Pietro ha mangiato anche quelli, tutta la famiglia
 esce dalla sala da pranzo e va in salotto, dove si beve
 il caffè.
 
-
-## Capitolo dodici (12): LA CENA
+# Capitolo dodici (12): LA CENA
 
 Nell'entrata dell'appartamento dei Rossi c'è un campanello. Quando qualcuno vuol entrare nell'appartamento, egli suona il campanello. Amelia allora va alla porta e domanda: «Chi è?». Poi, quando quello che ha suonato ha risposto alla sua domanda e le ha detto il suo nome, essa apre la porta. Però non sempre lascia entrare quello che ha suonato: lo lascia entrare solo se è qualcuno che conosce i Rossi e che i Rossi conoscono. Allora, se il signore o la signora Rossi sonno in casa, Amelia fa entrare in salotto e va a dire che c'è il signore o la signora X (e Amelia dice il nome della persona), che vuol vedere la signora o suo marito. Se invece i Rossi non conoscono quello che ha suonato, o se essi non sono in casa, Amelia non lo lascia entrare. Molte volte egli viene da un negozio e ha qualcosa per la famiglia Rossi: un vestito, un paio di scarpe, un paio di calzoni. Altre volte egli ha qualcosa per la cucina: della frutta, del latte, del burro, del formaggio, un pollo o qualcos'altro. Altre volte ancora, quello che ha suonato non conosce i Rossi, ma vuol dire qualcosa al signor Rossi o a sua moglie. Allora Amelia lo fa entrare e gli dice di aspettare nell'entrata. Poi essa va a dire ai Rossi che c'è qualcuno che vuol parlare al signore o alla signora. Carlo o Teresa Rossi vanno allora in entrata e fanno entrare in salotto quello che aspetta. Molte volte, però, gli parlano nell'entrata. Stasera, il campanello suona alle sette e mezzo e Amelia va a vedere chi è. Sono il signor Mario Perri e la signore Gina Perri. Stasera Teresa Rossi ha invitato i Perri a cena perché è il suo compleanno. Teresa Rossi invita sempre qualcuno per il suo compleanno. Quando Amelia vede che sono i Perri che han suonato, essa li fa entrare, prende il soprabito della signora Perri e quello del signor Perri, poi fa entrare gli invitati in salotto e torna in cucina.
 
@@ -1172,8 +1104,7 @@ Dopo il dolce Amelia serve la frutta. Poi essa serve il caffè. «Dove devo serv
 
 Quando i bambini han bevuto il loro caffè, Teresa Rossi dice a Bruno: «Ora, Bruno, mi vuoi fare un piacere?». Bruno: «Non lo so, mamma. Dì ciò che devo fare, allora io ti dico se lo posso fare». Carlo Rossi: «Bruno! fa quel che ti dice di fare la mamma!». Bruno: «Bene, papà! Dimmi ciò che devo fare, mamma!». Teresa Rossi: «Fammi il piacere di andare in camera vostra insieme con gli altri!». Bruno: «Ma mamma, sono soltanto le nove e mezzo!». Carlo Rossi: «Bruno! Va in camera tua come ha detto la mamma! E tu, Pia, va a letto! È già tardi». Teresa Rossi: «Prima di andare in camera vostra, Bruno, chiama Amelia e dille di darci ancora un po' di caffè!». «Sì, mammina!», dice Bruno e, siccome è un bravo ragazzo, esce dal salotto insieme col fratello e con le sorelle, come gli hanno detto i suoi genitori. Poi, però, quando sono usciti tutti e quattro nel corridoio, egli dice a sua sorella: «Fallo tu, Maria!». Maria ride e dice a va in cucina a dirlo ad Amelia.
 
-
-## Capitolo tredici (13): L'INCIDENTE
+# Capitolo tredici (13): L'INCIDENTE
 
 Oggi è il dodici maggio. Bruno è tornato da scuola, ha fatto merenda (la merenda è il piccolo pasto del pomeriggio, fra il pranzo e la cena), e ora va giù nella strada, dove i suoi amici Gianna Funghi e Aldo e Antonio Verdi lo aspettano per andare al parco. I quattro amici si salutano, poi Bruno domanda as Antonio: «Hai il pallone, Antonio?». «Il pallone? No», risponde Antonio, «ho dimenticato di prenderlo!». Bruno: «Hai dimenticato il pallone? Ma allora, non possiamo giocare al pallone!». Antonio: «Ma tu, Bruno, non hai un pallone anche tu?». «Sì», risponde Bruno, «ma il mio è vecchio». Antonio: «Non fa niente! Si può giocare anche con un pallone vecchio». «Vado su a prenderlo?», domanda Bruno, «Sì, sì!», rispondono gli amici.
 
@@ -1199,8 +1130,7 @@ Tonio: «Io e Aldo eravamo giù nella strada e aspettavamo Bruno...». La signor
 
 Mentre i due ragazzi raccontano il «loro» incidente, due automobili si fermano davanti alla casa dei Rossi. Dalla prima scende il signor Rossi, dall'altra il signor Verdi. Essi sono amici, e il Rossi dice: «Tu qui, Valerio? Vieni a salutarci? Che piacere!». «No, caro amico», risponde Verdi, «non è un piacere questa volta». «Non è un piacere?», domanda il Rossi, «che cosa vuoi dire?». «Non lo sai? Mi ha telefonato mia moglie una mezz'ora fa per dirmi che Antonio è qui da voi. Beatrice dice si è rotto una gamba. E anche Bruno: un incidente, un'automobile che non ha potuto fermarsi, non so...». Rossi: «Un incidente? Presto, vieni!». I due amici salgono in un momento, entrano nell'appartamento e poi nella camera dove Bruno e Antonio sono a letto.
 
-
-## Capitolo quattordici (14): I REGALI DI BRUNO
+# Capitolo quattordici (14): I REGALI DI BRUNO
 
 Prima di mettere i due ragazzi sui letti, Teresa Rossi e il dottor Forti han tolto loro le scarpe e i calzoni. Poi, quando il dottor Forti è uscito, la signora Rossi ha aiutato i due amici a togliersi anche la camicia. Quando è uscito di casa, Bruno aveva una camicia bianca, bella pulita. Ora, la camicia di Bruno è tutta sporca. Anche la camicia di Antonio è sporca, ma meno sporca di quella di Bruno.
 
@@ -1224,8 +1154,7 @@ Pietro, ora, domanda: «Me la fai vedere la macchina, Bruno?». «Sì; però non
 
 Bruno intanto guarda la sua macchina fotografica e dice: «Sai dove andrò, mamma, quando potrò camminare di nuovo?». Teresa Rossi: «No, Bruno. Dove andrai?». Bruno: «Andrò insieme con Antonio per tutte le vie di Roma e farò mille fotografie! Poi metterò le più belle nel mio album». Pietro e Pia: «Ci andremo anche noi, Bruno!». Bruno: «No; ci andrete forse, ma non con noi». Pietro e Pia: «E perché no?». Bruno: «Perché siete ancora troppo piccoli». Pietro: «No che non siamo piccoli, noi!». Teresa Rossi: «Basta, Pietro! Ora, usciamo tutti dalla camera, Bruno deve dormire un'oretta o due prima di cena». Bruno: «Ma io non voglio dormire!». Teresa Rossi: «L'ha detto il dottore, Bruno!». Allora Bruno non dice più niente, e quando rimane solo guarda ancora un po' i suoi regali, ma cinque minuti dopo chiude gli occhi, e poco dopo dorme.
 
-
-## Capitolo quindici (15): BRUNO PUÒ ALZARSI
+# Capitolo quindici (15): BRUNO PUÒ ALZARSI
 
 Oggi è il 26 (ventisei) maggio. Sono passati quindici giorni dal giorno dell'incidente. Bruno è a letto da quindici giorni. Il dottor Forti gli aveva detto: «Fra un paio di settimane potrai cominciare ad alzarti». Dunque, il quindicesimo giorno Bruno dice a sua madre: «Oggi mi alzo, mammina, no?». «Non so. Quando verrà il dottore, vedremo». «E a che ora viene il dottore? Non mi farà mica aspettare tutto il giorno, no?». «Il dottor Forti verrà verso le due». «Così tardi! Se il dottore verrà alle due, io non sarò alzato prima delle tre! Perché non gli hai detto di venire prima, mamma?». «Ma Bruno, il dottor Forti ha mille altre cose da fare e cento altre persone da vedere! Come si può dirgli che deve venire da noi prima di andare dagli altri?». «Ma io sono a letto da quindici giorni e non posso più aspettare!». «Bruno! Basta adesso! Ora io vado in cucina dall'Amelia e tu, intanto, sta a letto da bravo! Va bene?». «Va bene, mammina», dice Bruno che, quando vuole, è un bravo ragazzo.
 
@@ -1239,8 +1168,7 @@ Siccome Pia ha visto spesso i suoi fratelli e sua sorella giocare a carte, dopo 
 
 Un'ora dopo, quando la mamma viene a domandare a Bruno se vuole stare ancora una mezz'oretta in poltrona o se è stanco, la Pia le dice: «Mammina, sai che io so giocare a carte meglio di Pietro e della Maria?». «Ma brava!», dice la mamma, «ti ha insegnato Bruno?». «Sì, e sai quante volte ho vinto io?». «Ma... non lo so», risponde Teresa Rossi. Ma la Pia ripete: «Indovina quante volte ho vinto! Prova a indovinarlo!». «Come faccio a indovinarlo?», dice la mamma, poi aggiunge: «Dimmi quante volte avete giocato, allora proverò a indovinare quante volte ha vinto Bruno e quante volte hai vinto tu». «Abbiamo giocato dodici volte», dice la Pia. «Allora... vediamo un po'... hai vinto quattro volte tu e ha vinto otto volte Bruno». «No, non hai indovinato! Prova ancora una volta!». «Allora, vediamo... sei volte tu e sei volte Bruno». «No! Ho vinto sette volte io, e Bruno ha vinto solo cinque volte!». «Ma allora tu sei più brava anche di Bruno! Come hai fatto a vincere tante volte?». «È perché Bruno oggi è stanco e gioca meno bene degli altri giorni. Gli altri giorni, quando gioca con Pietro e Maria, vince sempre lui». Bruno, rispondendo alla domanda della mamma se vuole rimanere ancora un po' in poltrona, dice che è troppo stanco e chiede alla mamma di aiutarlo a tornare a letto.
 
-
-## Capitolo sedici (16): DOMANI ANDIAMO A PISA
+# Capitolo sedici (16): DOMANI ANDIAMO A PISA
 
 La mattina seguente, verso le dieci, la Pia entra correndo nella camera di Bruno e dice: «Bruno! Bruno! Sai cosa?». Bruno: «No; come faccio a saperlo? Non sono ancora uscito di camera, oggi». Pia: «Domani andiamo a Pisa dalla zia Giovanna». (La zia Giovanna è la sorella di Teresa Rossi e sta a Pisa col marito e col figlio Giorgio di vent'anni). Bruno: «Che dici? A Pisa? Chi è che ci va?». Pia: «Io, tu, la mamma e Antonio». Bruno: «Io, tu, la mamma e Antonio? Bellissimo! Antonio non è mai stato a Pisa. Ma ... come fai a saperlo?». Pia: «Ho sentito la mamma che lo diceva al telefono alla signora Verdi».
 
@@ -1254,8 +1182,7 @@ Prima di tornare a casa, quel giorno, il signor Rossi si reca alla stazione Term
 
 Quando Carlo Rossi torna a casa, Bruno e Pia gridano: «Ecco papà!», e gli domandano: «Sei stato alla stazione? Hai i biglietti?». «Sì, sì!», risponde Rossi. Durante la cena e dopo cena si parla soltanto del mare, di vacanze e della zia Giovanna, fino a quando la signora Rossi dice a Pietro e alla Pia: «Adesso è ora di coricarvi, bambini!». «Di già?», dicono i due, ed aggiungono: «Che peccato!». Un'ora dopo vanno a letto anche Bruno e Maria, dicendo anche loro: «Di già? Che peccato! Stavamo così bene qui».
 
-
-## Capitolo diciassette (17): IL SOGNO DI BRUNO
+# Capitolo diciassette (17): IL SOGNO DI BRUNO
 
 Quando Bruno apre gli occhi il giorno dopo, la prima cosa che pensa è: «Oggi si va a Pisa! Oggi io, la Pia, la mamma e Antonio andiamo a Pisa!». Il suo pensiero seguente è che deve alzarsi presto presto per essere vestito in tempo. Ma quando guarda l'orologio, vede che sono soltanto le sei. Se si alzerà a quell'ora, sveglierà tutta la famiglia. Non c'è dunque altro da fare che aspettare un'altra ora prima di alzarsi.
 
@@ -1269,8 +1196,7 @@ La guardia prima è rimasta ferma, non sapendo se doveva correre dietro al ladro
 
 «E il ladro?», domanda Pietro. «Il ladro», comincia Bruno, «a è stato fermato dalla gente che lo inseguiva, e ...». Ma in quel momento entra la mamma, la quale, sentendo parlare di ladri, domanda: «Che ladro? Che cosa stai raccontando?». Bruno risponde: «Sto raccontando quello che è successo quando siamo arrivati a Pisa». Sua madre lo guarda negli occhi, poi gli domanda se sta male. Bruno si mette a ridere, ed è Pietro che risponde per lui: «No, mamma, non sta mica male Bruno. Sta soltanto raccontando ciò che ha sognato stanotte». «Ah, se è soltanto un sogno ...», dice allora Teresa Rossi, ed esce di nuovo, dopo aver detto ai ragazzi: «Adesso alzatevi, ragazzi!». Essa ha ancora molto da fare. Così Bruno, alzandosi e vestendosi, può finire di raccontare a Pietro il suo sogno.
 
-
-## Capitolo diciotto (18): IL VIAGGIO
+# Capitolo diciotto (18): IL VIAGGIO
 
 Poco dopo il pranzo, Teresa Rossi e i due bambini prendono un tassì per andare alla stazione Termini. «Dovete andarci da soli», ha detto Carlo Rossi, che oggi non ha tempo di portare sua moglie e i bambini alla stazione. Lì devono incontrarsi con Antonio Verdi e sua madre. E le prime persone che vedono Bruno e Pia, entrando nella stazione, sono Antonio e la signora Verdi.
 
@@ -1288,8 +1214,7 @@ E così, mangiando, bevendo e parlando, passa ancora un'ora e mezzo, e alle sei,
 
 Nella piazza davanti alla stazione, essi prendono un tassì per andare a Marina di Pisa, dove la sorella di Teresa li aspetta col figlio Giorgio. Essa sta a Pisa, ma d'estate va al mare, in una piccola casa a una diecina di chilometri dalla città.
 
-
-## Capitolo diciannove (19): UN BAGNO CHE FINISCE MALE
+# Capitolo diciannove (19): UN BAGNO CHE FINISCE MALE
 
 Il giorno dopo, i due ragazzi si alzano ai primi raggi del sole. Sono le cinque, tutti gli altri dormono ancora, nessuno è sveglio. Alzati e vestiti, i due ragazzi escono di casa senza svegliare nessuno. Usciti di casa, essi vanno verso il mare, camminando in fretta, senza parlare. Vogliono essere i primi a vedere il mare, e poi vogliono fare il primo bagno dell'anno. La signora Rossi non deve saperlo; essa non permette mai ai bambini di andare in mare da soli. Bruno nuota molto bene, ma sua madre non gli permette di nuotare da solo dove l'acqua è alta. Per arrivare al mare i ragazzi devono fare un centinaio di metri prima di vedere l'acqua.
 
@@ -1307,8 +1232,7 @@ Questa volta però non provano a nuotare a tutta forza, perché arrivare alla sp
 
 Allora anche Antonio prende paura, ed anche lui si mette a gridare: «aiuto! aiuto!». Un momento dopo, egli sente la mano di Bruno che gli prende il braccio. «Lasciami andare! Non posso nuotare se mi tieni il braccio», grida il ragazzo, ma Bruno non pensa più che a sé stesso. Egli non ha che un pensiero: non vuole morire, non vuole affogare. Perciò, quando non ha più forza per tenere il braccio dell'amico, gli prende i capelli. «Lasciami andare! Lasciami!», grida Antonio, sentendo che le forze lo lasciano e che fra qualche momento non potrà più nuotare neanche lui. Ma Bruno non sente più niente; egli continua a tenere l'amico per i capelli, non lo vuole lasciare: ha soltanto una grandissima paura di affogare. I ragazzi sono ancora a cinquanta metri da terra, e sulla spiaggia non si vede nessuno. I due ragazzi sono soli, nessuno risponde alle loro grida. L'acqua è fredda, non possono più continuare. La paura toglie ogni forza a Bruno. Ma adesso anche Antonio comincia ad affogare. E dopo un ultimo «aiuto!», prima Antonio, poi Bruno, si sentono andar giù. Il mare, verde e freddo, si chiude sopra le loro teste.
 
-
-## Capitolo venti (20): BRAVO CESARE!
+# Capitolo venti (20): BRAVO CESARE!
 
 Quando Giorgio, il cugino di Bruno, è a Marina di Pisa, egli si alza ogni mattina alle sei e va alla spiaggia per nuotare. Anche stamattina egli esce di casa per andare alla spiaggia. E un bel giovanotto, alto, forte, più forte di tutti i suoi amici. Nuota come un pesce e non ha paura di nulla.
 
@@ -1326,8 +1250,7 @@ Un momento dopo, i due cugini - Giorgio portando Antonio e Bruno portando i vest
 
 Quando hanno bevuto il caffè e hanno finito di raccontare, i ragazzi dicono che vogliono andare a casa. Si vestono e, prima di uscire, dicono mille grazie alla brava Filomena. Ma ringraziano anche il bravo Cesare, che pare molto contento di quello che ha fatto e che adesso non fa più paura a Bruno e ad Antonio. Dieci minuti dopo entrano nel giardino della zia Giovanna, nel momento in cui e la mamma e la zia, ancora in vestaglia, seguite dalla Pia, escono di casa correndo. La Pia e la mamma baciano ed abbracciano Bruno, esclamando: «Che cos'hai fatto? Pensa che se non c'era Giorgio voi vi affogavate! ». Giorgio guarda e sorride senza dir nulla. Poi, tutti e cinque entrano in casa e il giovanotto racconta come lui e Cesare hanno salvato i due ragazzi. La piccola Pia ascolta ciò che egli racconta guardandolo con gli occhi spalancati e la bocca aperta: per lei, un uomo che ha salvato suo fratello ed il suo amico è una persona molto grande. La signora Rossi, mentre ascolta Giorgio e poi i due ragazzi, vede come in un sogno tutto ciò che è successo sulla spiaggia quella mattina. Essa non dimenticherà mai quello che ha fatto Giorgio per suo figlio, cioè per lei; ed oggi porterà una buona fetta di arrosto anche al cane della signora Filomena.
 
-
-## Capitolo ventuno (21): ANNIBALE VESPUCCI
+# Capitolo ventuno (21): ANNIBALE VESPUCCI
 
 Erano le due del pomeriggio, un giorno di luglio. Roma dormiva. Il termometro segnava trenta gradi all'ombra. Al sole ne segnava quasi quaranta. Era un'estate caldissima. Le vie della capitale erano quasi vuote; con quel caldo, la gente non usciva molto volentieri; stava in casa, all'ombra. Anche i negozi erano quasi tutti chiusi, a quell'ora. Dopo aver pranzato, gli impiegati dormivano - o provavano a dormire. Con quel caldo non era sempre facile.
 
@@ -1347,8 +1270,7 @@ Poi continuò: « Allora avevo tredici anni. Da quel giorno, ho letto tutti i li
 
 In quel momento, entrò Bruno.
 
-
-## Capitolo ventidue (22): NAPOLI
+# Capitolo ventidue (22): NAPOLI
 
 Quando arrivarono a Roma i Vespucci, Bruno Rossi non era più il ragazzo di quindici anni che giocava al pallone con gli amici e che aveva paura di Cesare, il cane della vecchia Filomena. Quando venne a Roma la famiglia Vespucci, Bruno era un bel giovanotto di vent'anni, forte, alto come suo padre. Con quei capelli nerissimi e gli occhi d'un bruno così scuro che sembravano neri anche loro, egli era un vero romano, era il 'giovane italiano' come lo sognava Joy Vespucci quando pensava al paese del nonno. Joy, lei, era bella come una 'stella' di Hollywood. Così che quando Bruno entrò nel salotto, egli si fermò un momento con lo sguardo fisso su Joy Vespucci, senza poter dire nulla. Ma fu solo un secondo. Joy abbassò lo sguardo arrossendo, e Bruno, arrossendo un po' anche lui, abbassò la testa per un momento, poi si voltò verso le altre persone presenti nel salotto.
 
@@ -1376,8 +1298,7 @@ Un quarto d'ora dopo, tutti e quattro si fermarono in un caffè dal quale si ave
 
 Quando i quattro ebbero lasciato il caffè, fecero ancora una passeggiata lungo il mare prima di tornare all'albergo, che si trovava nella parte alta della città, in Corso Vittorio Emanuele. «Bè’, che si fa domani?», domandò Bruno, «noi se possiamo andiamo al Vesuvio, e Lei, signor Vespucci?». «Io? Io ... vado a cercare farfalle a Capua». Bruno spalancò gli occhi: «Farfalle? A Capua? Perché a Capua? E perché farfalle?». I tre Vespucci risero come bambini vedendo la faccia di Bruno, ma Annibale rispose soltanto: «Perché sono belle. E poi è molto divertente. A Lei non piacciono le farfalle?». «Sì, mi piacciono molto, ma ...». Ma Annibale non volle dir altro, e né Joy né sua madre vollero dire a Bruno che cosa andava a fare a Capua Annibale Vespucci. Bruno ci pensò un momento, ma poi non ci pensò più. Aveva altro da fare che pensare alle farfalle dell'americano!
 
-
-## Capitolo ventitré (23): IL VESUVIO E POMPEI
+# Capitolo ventitré (23): IL VESUVIO E POMPEI
 
 Il giorno dopo, dunque, Vespucci, come aveva detto, partì di mattina presto per Capua, promettendo di tornare prima di cena. E alle nove Bruno andò a picchiare alla porta di Dorabel Vespucci per farle sapere che si poteva partire. Dorabel chiamò sua figlia, e cinque minuti dopo tutti e tre erano riuniti nel vestibolo dell'albergo.
 
@@ -1407,8 +1328,7 @@ Era infatti un bellissimo panorama: lontano, a destra, il golfo di Gaeta; poi, p
 
 La guida accettò, gli altri turisti non dissero niente neanche loro, e così Bruno, Joy e Dorabel poterono scendere quel giorno nel cratere del Vesuvio, come aveva voluto miss Joy.
 
-
-## Capitolo ventiquattro (24): POMPEI DI NOTTE
+# Capitolo ventiquattro (24): POMPEI DI NOTTE
 
 «E allora, signor Annibale», domandò Bruno quella sera stessa a Vespucci, quando ebbero finito di cenare in un ristorante del Vomero, «ha trovato quello che cercava, a Capua?». «Eh? quello che cercavo?», disse Vespucci, voltandosi a un tratto verso Bruno. «Sì», ripeté il giovanotto, «le farfalle, le belle farfalle di Capua, le ha trovate?». «Ah, sì, sì! le ho trovate, sì, le ho trovate», ripeté Vespucci parecchie volte, come per meglio credere lui stesso alle storielle che aveva raccontato a Bruno. «Meno male!», disse il giovanotto, «allora domani Lei forse potrà venire con noi a Capri?». «La ringrazio molto, ma ... non so ancora. Forse dovrò tornare a Capua parecchie volte, per ...». «Per trovare altre farfalle?», domandò Bruno con un sorrisetto, perché cominciava a non crederci più, lui, alle storielle del bravo Vespucci. «Sì, appunto! Per trovare un altro paio di farfalle che non ho potuto trovare oggi», disse l'americano; «è un po' difficile, sa, certe volte, trovare la farfalla che si cerca». «Già, già», disse Bruno con lo stesso sorrisetto di prima, «certe farfalle si nascondono così bene tra i fiori che è difficilissimo trovarle. Ma per parlare di altre cose, anche se Lei non ci può accompagnare a Capri domani, stasera viene con noi a Pompei, no? Sono le nove, è ora di lasciare questo bellissimo panorama e di andare a prendere il treno per Pompei». «Già, non dobbiamo arrivare troppo tardi. L'illuminazione comincia alle dieci, no?». «Appunto. Partendo ora possiamo prendere il treno delle nove e mezza, così saremo a Pompei verso le dieci e un quarto». «Allora partiamo!», disse Vespucci, e tutti e quattro uscirono dal ristorante. Entrarono in Pompei per la Porta Marina. Appena furono entrate, Joy e Dorabel si fermarono esclamando: «Com'è bello!». Ma Bruno disse: «Eh! questo non è niente, due o tre case illuminate da un paio di proiettori. E bellino, sì, ma ...», e, seguito dai Vespucci, andò su per la via che dalla Porta Marina va verso la grande piazza chiamata 'il Foro'. Lì egli si fermò e disse: «Bè'? Loro che ne pensano?». Per un po' nessuno di loro disse niente, tanto era magnifico lo spettacolo che avevano davanti. Tutto il Foro, quella grande piazza che fu il centro di Pompei antica, era illuminato a giorno da un centinaio di proiettori nascosti qua e là. E tutti i più bei monumenti di Pompei, sulla piazza del Foro, illuminati da altri proiettori, non sembravano distrutti, e si dimenticava, guardandoli, che quella città era morta da duemila anni.
 
@@ -1436,8 +1356,7 @@ Il teatro più vecchio è il Teatro Grande, nel quale ci troviamo ora. Esso pote
 
 Un'ora dopo, i Vespucci e Bruno erano di ritorno all'albergo. L'ultima cosa che si dissero prima di lasciarsi per andare a dormire fu: «Dunque, domani si va a Capri».
 
-
-## Capitolo venticinque (25): CAPRI
+# Capitolo venticinque (25): CAPRI
 
 Il giorno dopo, di mattina presto, avendo Annibale accettato di accompagnare gli altri quel giorno, tutti e quattro scesero al porto dietro Castel Nuovo, da dove partiva la nave che doveva portarli all'isola di Capri. «E quella lì?», domandò Joy, mostrando una grossa nave sulla quale stava salendo molta gente. «No, no», disse Bruno, «quella lì è troppo grossa. La nostra è quella motonave che aspetta laggiù». «Cos'è una motonave?», domandò Joy mentre si avvicinavano. «Come vede, è una nave a motore. Eccoci arrivati. Saliamo?». Tutti e quattro salirono. Una diecina di minuti più tardi, la nave usciva dal porto e si allontanava da Napoli. Solo allora Dorabel si accorse che sul bel mare azzurro del golfo di Napoli c'erano delle piccole onde. Appena le ebbe viste chiamò suo marito: «Annibale!». Vespucci, sentendo quel grido, lasciò Bruno, che gli stava mostrando i luoghi conosciuti del golfo, e domandò, accorrendo verso la moglie: «Cos'è accaduto, Dora?». «Annibale, guarda il mare!», esclamò la signora Vespucci. «Il mare? Sì. Lo guardo, lo guardo, ma ... non vedo niente». «Quelle onde! Come ho potuto salire su questa nave senza accorgermi che il mare non era calmo?». «Devo dire che non me ne ero accorto neppure io». «Ma Annibale, tu sai che io mi sento male se c'è la più piccola onda! Questa traversata da Napoli a Capri sarà terribile!».
 
@@ -1459,8 +1378,7 @@ Così parlando, i quattro finirono la visita di Villa San Michele. Uscendo, nel 
 
 Quando arrivarono alla seggiovia, vi trovarono un gruppetto di turisti che, come loro, avevano visitato Villa San Michele e, dopo la visita, avevano deciso di andare sul Monte Solaro, per vedere il panorama. Bruno e Joy non aspettarono e, lasciando i Vespucci, padre e madre, si allontanarono, camminando l'uno accanto all'altro, e cominciarono a salire verso il ristorante del Monte Solaro.
 
-
-## Capitolo ventisei (26): IL MONTE SOLARO
+# Capitolo ventisei (26): IL MONTE SOLARO
 
 Per andare al Monte Solaro dalla 'piazza centrale' di Anacapri, da dove parte la seggiovia, si prende una viuzza che sale su per la montagna fra villini e casette, voltando ora a destra ora a sinistra, e che, un centinaio di metri dopo l'ultima casa, smette di essere una via per diventare un sentiero. Allora comincia la parte più bella della salita, fra pini ed altri alberi e arbusti, sotto un sole che fa salire dalla terra, dai fiori e dalle piante odori forti e caldi. E chi ha tempo e voglia di lasciare qualche volta il sentiero e di fare un giretto per la montagna, troverà molte specie di fiori e di piante che non si trovano in nessuna altra parte d'Italia.
 
@@ -1487,8 +1405,7 @@ Vespucci, lui, rimase fuori. Egli non era capace, come la moglie e la figlia, di
 
 Una mezz'ora più tardi, i tre uscirono dal negozio. «Papà, tu non sai che belle bluse abbiamo comprato, io e la mamma!», esclamò Joy appena vide suo padre. «E sai che cos'ha fatto Bruno?», disse Dorabel. «No, come potrei saperlo, giacché sono stato sempre qui?». «Ci ha fatto vendere le bluse e tutto ciò che abbiamo comprato a molto meno del prezzo che domandavano!». «Veramente?». «Sì, ha detto che era una guida e che noi eravamo suoi amici e non molto ricchi, e allora ci hanno fatto pagare molto meno degli altri! Senza Bruno, sono certa che non sarebbe mai stato possibile, perché in Italia si pensa sempre che tutti i turisti americani sono ricchi». «Cara signora Dorabel», disse Bruno quasi scusandosi, «i negozi di ricordi fanno quasi sempre un regalino alla guida che porta dei turisti. Allora io non ho fatto altro che far Loro regalo di quel regalino. Ecco». «Bruno!», esclamò a un tratto Joy, interrompendo il giovane, «abbiamo dimenticato la Grotta Azzurra!». «Eh, no», si scusò Bruno, «non l'ho dimenticata, io, ma siccome la Sua mamma non stava molto bene sulla motonave, son certo che non aveva voglia di salire su una piccola barca che non sarebbe certamente stata ferma come la nostra nave, e ...». «No, grazie», esclamò Dorabel, «Grotta Azzurra o no, io in una barca non ci sarei mai scesa! Potete andarci da soli con Annibale un altro giorno, io non ci vado!». «Ma mamma, tu sai che papà non ha tempo! Come posso tornare in America e raccontare che sono stata a Capri senza aver visto la Grotta Azzurra?». «Io non ne so nulla, ma te lo ripeto: me nella tua grotta non mi ci fai andare». «Signor Vespucci», disse allora Bruno, «le Sue farfalle non potrebbero aspettare ancora un giorno? Hanno già aspettato quasi duemila anni cosicché ...». «Eh? Aspettato duemila anni, le mie farfalle? Cosa vuol dire?». «Eh, già: ho pensato un po' ai posti dove vuol farci andare dopo Napoli - e Capua, non si dimentichi! - e mi è venuta un'idea. Lei si chiama Annibale, no? Allora ...». «Allora?». «Ma, niente, pensavo solo che c'è stato un altro Annibale all'epoca dei Romani, e che ...». «Basta, giovanotto, Lei ha vinto!», esclamò Vespucci, «torniamo a Napoli e Le racconterò la vera storia del nostro 'giro d'Italia'. E domani torneremo a Capri mentre Dorabel si riposerà dopo le due traversate d'oggi. Va bene?». «Bravo papà!», gridò Joy abbracciando suo padre. E tutti, contenti, scesero al porto e andarono verso la nave.
 
-
-## Capitolo ventisette (27): DORABEL VISITA NAPOLI
+# Capitolo ventisette (27): DORABEL VISITA NAPOLI
 
 A dire il vero, Vespucci non era scontento di aver raccontato a Bruno la verità sul loro viaggio. Tutto diventava molto più facile, ora che egli non era più obbligato a trovare ogni giorno nuove storie per spiegare i suoi viaggetti. Adesso, anche in presenza di Bruno, i Vespucci potevano parlare apertamente dei luoghi che Annibale doveva vedere, e Bruno poteva consigliarli sulle città che dovevano visitare Joy e sua madre.
 
@@ -1514,8 +1431,7 @@ Al porto, gli ho dato le cinquemila lire che gli avevo promesso. Avrei voluto da
 
 «Cos'hai fatto allora?», domandò Joy ridendo, «hai fatto un film, tutta una storia, lì, sul posto?». «Quasi!», rispose Dorabel, «li ho fatti giocare, saltare, correre, buttarsi in acqua, nuotare e mille altre cose. Ho fatto un vero piccolo film che mi ha fatto dimenticare le cose tristi che avevo visto poco prima. Ma è proprio quando non ho più avuto un centimetro di film nella macchina che sarei stata contenta di averti accanto a me, caro Bruno! Si son messi a saltarmi intorno gridando in modo tale che ho veramente cominciato ad aver un po' di paura. Non so come ho fatto a tornare all'albergo con la macchina. E il bello è che la gente che ci vedeva doveva essere tanto abituata a quella specie di spettacoli che rideva invece di aiutarmi. Ma tutto è finito bene. Però, ora sono stanca!». «Lo credo bene che tu sia stanca, mammina!», esclamò Joy. E accompagnò la madre su in camera, e le diede l'ordine di andare a letto e di riposarsi per almeno un paio d'ore.
 
-
-## Capitolo ventotto (28): UNA SERA A SORRENTO
+# Capitolo ventotto (28): UNA SERA A SORRENTO
 
 Il giorno dopo la visita di Napoli della signora Vespucci, suo marito tornò a Capua, e Dorabel, Joy e Bruno passarono una giornata tranquilla, ma non noiosa, a riparlare di tutto quel che avevano visto fino ad allora. E l'indomani si decise di lasciare Napoli per un giro di qualche giorno.
 
@@ -1553,8 +1469,7 @@ Poco dopo, Bruno la invitò a ballare, e così i due giovani si trovarono a qual
 
 Quando Bruno tornò a ballare con Joy, i due innamorati se n'erano andati, e Bruno provò a non pensare più al sogno che aveva fatto quella sera.
 
-
-## Capitolo ventinove (29): IL MACIGNO
+# Capitolo ventinove (29): IL MACIGNO
 
 Annibale e gli altri lasciarono Sorrento di mattina presto. Era una splendida giornata: faceva caldo, ma non troppo, tutto sembrava prometter una bellissima gita. Il padrone dell'albergo era uscito sulla strada per augurare buon viaggio, i primi turisti cominciavano ad arrivare a Sorrento.
 
@@ -1588,8 +1503,7 @@ Tornò un minuto dopo, e appena si fu seduto nella macchina esclamò: «Impossib
 
 In quel momento, si sentì il rumore di un grosso torpedone che si avvicinava, venendo da Amalfi.
 
-
-## Capitolo trenta (30): FINE DEL TEMPORALE
+# Capitolo trenta (30): FINE DEL TEMPORALE
 
 Il torpedone si fermò a una ventina di metri appena dal macigno. L'autista, un napoletano di una quarantina d'anni, scese per vedere cos'era successo e si incontrò davanti al macigno con Bruno, che aveva lasciato la macchina sentendo il torpedone avvicinarsi.
 
@@ -1629,8 +1543,7 @@ Poco dopo, mentre l'auto dei Vespucci proseguiva verso Amalfi, cessò la pioggia
 
 Quando Bruno finì di raccontare, si era già alle prime case di Amalfi.
 
-
-## Capitolo trentuno (31): AMALFI
+# Capitolo trentuno (31): AMALFI
 
 In ritardo per il temporale, i quattro amici decisero di trattenersi ad Amalfi fino alla mattina seguente, invece di proseguire subito verso Salerno e i Monti Picentini. Trovarono due stanze con una certa facilità, e dopo aver pranzato si riposarono un paio d'ore. Bruno, soprattutto, aveva un grandissimo bisogno di riposo. Ma anche gli altri erano molto stanchi. Appena coricati si addormentarono, e dormirono fino alle cinque, sognando strade inondate, grossi sassi che precipitavano dalla montagna, tuoni e fulmini, sangue e ferite. Joy, soprattutto, ebbe un sogno che non finiva mai, un sogno terribile in cui essa vedeva Bruno precipitare ripetutamente in un burrone. Il sogno di Vespucci, invece, fu meno spiacevole: egli sognò che lo calavano giù in un burrone dove anche lui aveva visto precipitare Bruno, e dove, cento metri più in giù, trovava il giovanotto ancora in vita, ma gravemente ferito. Con uno sforzo che per qualsiasi altra persona sarebbe stato impossibile, ma che per Vespucci era roba da bambini, egli si metteva il giovanotto sulle spalle; poi, un po' tirato su dagli altri, un po' arrampicandosi soltanto coi piedi, risaliva dal burrone.
 
@@ -1674,8 +1587,7 @@ Annibale scrollò le spalle, Bruno non disse niente, accese i fari più potenti 
 
 Bruno non la sentì. Stava pensando e ripensando. Gli sembrava più che strano il fatto che non ci fosse più benzina nel serbatoio, ma benché lo interessasse di conoscere la ragione di quel fatto stupefacente, la cosa principale ora era di trovare della benzina. Ma dove? Già, dove?
 
-
-## Capitolo trentadue (32): ARRIVA LA BENZINA
+# Capitolo trentadue (32): ARRIVA LA BENZINA
 
 Già, dove procurarsi della benzina, alle nove di sera, a una diecina di chilometri da una qualsiasi città? Eppure bisogna a ogni costo procurarsi quella benzina: Dorabel non avrebbe mai accettato di fare dieci chilometri a piedi, di notte, per una strada non troppo buona, e d'altra parte, certo, non avrebbe accettato neppure, a nessun costo, di dormire nella macchina. (Ciò che, poi, in quattro, non si sarebbe nemmeno potuto fare).
 
@@ -1709,8 +1621,7 @@ Passarono due giorni a Taranto, due altri a Brindisi, e la sera dell'ottavo gior
 
 Intanto, lei e Joy si erano messe a fare le valige, cosicché, quando Annibale entrò quasi correndo nella loro camera, tutto era pronto per la partenza. «Presto! macchina!», gridò Vespucci, «ho pagato l'albergo, possiamo partire subito!». E scese giù seguito da Bruno, Dorabel, Joy e due facchini che portavano le valige. In un paio di minuti, tutti furono in macchina, e lasciarono Barletta. Solamente quando furono usciti dalla città, Vespucci accettò di raccontare la sua scoperta.
 
-
-## Capitolo trentatré (33): LA SCOPERTA DI ANNIBALE
+# Capitolo trentatré (33): LA SCOPERTA DI ANNIBALE
 
 Quando Vespucci fu arcisicuro che nessuno avrebbe sentito il suo racconto, cominciò:
 
@@ -1743,8 +1654,7 @@ Fu Bruno che tirò fuori i due Vespucci dalla situazione sgradevole in cui si er
 
 «Chi? Dove?», domandò Dorabel. Ma Annibale non rispose. Accelerando al massimo, egli lanciò la potente macchina in avanti, a centocinquanta chilometri all'ora, lo sguardo fisso sulla strada davanti a sé, con un solo pensiero in testa: sfuggire di nuovo agli sconosciuti che lo inseguivano....
 
-
-## Capitolo trentaquattro (34): LA FUGA DI ANNİBALE
+# Capitolo trentaquattro (34): LA FUGA DI ANNİBALE
 
 La fuga di Annibale fu qualcosa di assolutamente indimenticabile. Per raccontarla ci sarebbe voluta la penna di un grande scrittore. Ma quantunque Bruno non fosse scrittore, egli riuscì, in una lettera che mandò da Napoli alla famiglia, a dare un'idea vivace di quella fantastica corsa per le strade della Puglia e della Campania. Ecco la lettera di Bruno:
 
@@ -1789,8 +1699,7 @@ Quando ha finito, ci ha detto con un sorriso contento: «Sanno chi sono, quei du
 
 Vedendo che la loro situazione era disperata, e che la cosa migliore era di dire la verità, i due hanno raccontato tutto, chiarendo così i punti della loro storia che la polizia non aveva voluto accettare fino a quel momento. Ogni tanto, Vespucci, che ora capiva meglio perché era stato inseguito con tanta rabbia, non poteva trattenere un'esclamazione di stupore e di meraviglia: «Fantastico! Caro Bruno, quella fuga ci ha salvato la vita! Abbiamo rischiato cento volte di romperci il collo, ma quei due lì sarebbero stati capaci di ucciderci a sangue freddo e senza che nessuno ci potesse aiutare! È davvero una storia incredibile!».
 
-
-## Capitolo trentacinque (35): STORIA DEI DUE LADRI
+# Capitolo trentacinque (35): STORIA DEI DUE LADRI
 
 Ecco la fine della lettera in cui Bruno raccontava la storia dei due uomini che li avevano inseguiti fino a Napoli:
 
@@ -1822,8 +1731,7 @@ Immaginatevi la disperazione del povero Vespucci! Ha provato a discutere con la 
 
 Questo, però, ve lo racconterò un altro giorno, nella mia prossima lettera. Ora sono stanco di scrivere, e i Vespucci mi stanno chiamando per andare a cena.
 
-
-## Capitolo trentasei (36): L'ANELLO DI ANNIBALE
+# Capitolo trentasei (36): L'ANELLO DI ANNIBALE
 
 Povero Annibale! Se fosse stato un ragazzo, lui, quel pomeriggio, avrebbe pianto a calde lacrime. Il suo bel sogno si era infranto contro la dura realtà: l'anello d'oro che egli aveva trovato sul campo di battaglia di Canne era ... Ma procediamo per ordine.
 
@@ -1859,8 +1767,7 @@ Il loro primo moto fu di stupore, quasi di paura, tanto la scena era inattesa. P
 
 «E veramente fantastico», disse Joy, poi aggiunse sorridendo: «Altrimenti detto, papà, tutto va bene di nuovo e i tuoi progetti rimangono gli stessi?». «I miei progetti, infatti, non sono cambiati. E anzi, non sono affatto scontento di quanto è accaduto, perché mi ha fatto ripensare tutte le mie teorie e ne ha confermato la giustezza». Allora, dunque, domani ...», cominciò Joy, e Vespucci finì per lei: «... domani si parte per Roma!». «Benissimo», disse Bruno, «potremo finalmente fare una vera visita di Roma! Non mi piaceva l'idea che Loro avessero visitato Pompei, Napoli, perfino Taranto e Barletta, e che non avessero ancora visto che una piccolissima parte della meravigliosa Roma». «Benissimo!», esclamò a sua volta Vespucci, «domani mattina si parte, e domani sera faremo il giro di Roma con Bruno!».
 
-
-## Capitolo trentasette (37): FONDAZIONE E ORIGINI DI ROMA
+# Capitolo trentasette (37): FONDAZIONE E ORIGINI DI ROMA
 
 Dodici ore dopo, erano di nuovo a Roma. Dato che si era ai primi di agosto, non trovarono in città che il signor Rossi. Il resto della famiglia era in vacanza. Così, dopo avergli raccontato in breve, durante il pranzo, gli ultimi avvenimenti, Bruno e i tre Vespucci uscirono di casa per andare al Foro Romano.
 
@@ -1910,8 +1817,7 @@ E adesso, per non star sempre fermi nello stesso posto, vediamo un po' i monumen
 
 E Bruno, seguito dai Vespucci, si mise a girare per il Foro spiegando ciò che vedevano intorno a loro.
 
-
-## Capitolo trentotto (38): IL FORO ROMANO
+# Capitolo trentotto (38): IL FORO ROMANO
 
 «Abbiamo visto», disse Bruno proseguendo la visita del Foro, «che il luogo nel quale ci troviamo è il Comizio, dove si riuniva il popolo per decidere degli affari pubblici. Questa piazza, nei primi tempi, era ben più grande di quella che ci rimane oggi, e che è il Comizio dell'epoca degli imperatori. Infatti questi ultimi governavano da soli, senza quasi mai domandare al popolo il suo parere. E poi, la popolazione di Roma aumentava così rapidamente che ben presto questo luogo non bastò più per le riunioni del popolo, cosicché si dovette trasferirle fuori della città, in un nuovo Comizio. Fra il Comizio antico e il Foro propriamente detto c'era un altro monumento pubblico assai interessante, che si chiamava 'i Rostri'. Era, fin dai tempi più antichi, una specie di tribuna dalla quale gli oratori parlavano al popolo di Roma. Tale tribuna aveva preso questo nome dopo che, nel trecentotrentotto a. C., vi erano stati posti i rostri delle navi da guerra di Anzio, una città vinta da Roma. E dai Rostri che il famoso oratore Cicerone fece al popolo romano due dei suoi forti discorsi contro Catilina, che aveva voluto prendere il potere con la forza delle armi. E molti altri oratori fecero dai Rostri antichi dei discorsi di grandissima importanza per la storia di Roma. Ricordiamoci che nel mondo antico non esisteva nulla di veramente simile ai moderni giornali, per non parlare naturalmente della radio e della televisione! Perciò gli affari pubblici bisogna farli conoscere al popolo direttamente, se si voleva che il popolo vi partecipasse.
 
@@ -1959,8 +1865,7 @@ Tanti diritti, e una vita che potevano condurre solo le più ricche e potenti do
 
 E i quattro lasciarono il Foro Romano.
 
-
-## Capitolo trentanove (39): IL COLOSSEO
+# Capitolo trentanove (39): IL COLOSSEO
 
 Il giorno dopo la visita al Foro Romano, mentre andavano al Colosseo, Joy disse a Bruno: «Ho scritto una lettera alla mia migliore amica, a Washington, e invece di mettere l'indirizzo del nostro albergo, che lei conosce già, vorrei dirle che le scrivo seduta davanti alla casa in cui abitò il famoso tal dei tali, in via tale, numero tale. Non potrebbe aiutarmi? Lei deve conoscere un paio di indirizzi di questo genere, no?». «Di codesto genere, no, e non ne conosco nessuno, perché non esistevano», rispose Bruno sorridendo. «Come non esistevano?», domandò Joy molto stupita. «Eh, già, cara Joy, non esistevano. Tutto il nostro sistema moderno di indirizzi, con vie, numeri, piani, ecc., era interamente sconosciuto nell'epoca romana».
 
@@ -1994,8 +1899,7 @@ Quando un gladiatore era stato gravemente ferito o non si sentiva più la forza 
 
 «Basta!», esclamò Dorabel, «usciamo! Non voglio più sentir parlare di questa roba! Ne ho abbastanza degli antichi Romani!». «Va bene», disse Bruno, «lasciamo dunque il Colosseo e andiamo a San Pietro». «Bravo! Che eccellente idea!», dissero i tre Vespucci, e tutti uscirono.
 
-
-## Capitolo quaranta (40): SAN PIETRO E IL VATICANO
+# Capitolo quaranta (40): SAN PIETRO E IL VATICANO
 
 Mentre andavano a San Pietro - Vespucci aveva chiesto di andarci a piedi, lungo il Tevere - Bruno raccontò la storia dei primi cristiani.
 
@@ -2027,8 +1931,7 @@ Appena entrata, Joy si fermò, senza poter dir nulla. «È fantastico ...», mor
 
 Bruno aveva detto tutto ciò sottovoce, e quando ebbe finito, i quattro proseguirono la visita di San Pietro. Quando l'ebbero terminata, passarono di nuovo davanti alla meravigliosa 'Pietà' di Michelangelo, e poi presero una carrozzella. Mentre tornavano verso il centro, Bruno raccontò ai suoi amici la vita del più grande genio del Rinascimento: Michelangelo.
 
-
-## Capitolo quarantuno (41): VITA DI MICHELANGELO
+# Capitolo quarantuno (41): VITA DI MICHELANGELO
 
 «Michelangelo», cominciò Bruno, «nacque nel 1475 a Caprese, una cittadina presso Firenze, dove suo padre, Lodovico di Lionardo Buonarroti Simoni, era podestà. A sei anni, Michelangelo perse la madre, e forse, chissà, ciò fu una delle cause della solitudine spirituale nella quale egli trascorse tutta la vita.
 
@@ -2068,8 +1971,7 @@ E un lavoro non più sovrumano, ma veramente inumano: per quattro anni, egli dip
 
 «Povero Michelangelo ...», disse Joy con un sospiro di tristezza. «Sì, povero, povero grande artista ...», disse Dorabel con un sospiro ancora più profondo, ed aggiunse: «Ma perché aveva un carattere così difficile?». «Eh, chi lo sa?», rispose Bruno, «sarà nato così, no? Uno nasce col carattere di un vile, un altro col carattere di un eroe, un terzo con quello di un santo». «No, no», esclamò Dorabel, «ci deve essere una spiegazione più giusta, più completa! Ognuno di noi porta in sé l'impronta dei primi anni della sua vita. L'infanzia è come l'impalcatura su cui si costruisce l'uomo adulto». «Può darsi», disse Bruno, «l'infanzia di Michelangelo, infatti, non fu felice, l'abbiamo visto. Oggi, purtroppo, rimane ben poco dei versi che scrisse nella sua gioventù lo scultore poeta, perché egli stesso li bruciò quasi tutti. Essi forse ci avrebbero aiutato a trovare il perché del carattere di Michelangelo». «Ma dica, Bruno», proseguì Dorabel, «non ha mai amato una donna, quel poveretto? E così duro, vivere senza la tenerezza di una donna!». «La tenerezza di una donna ... Lei non sa quanto Michelangelo soffrì di non essere amato! Ma questa è un'altra storia. Ora siamo arrivati all'albergo, bisogna pranzare. Però dopo pranzo, se vogliono, potremo continuare a parlare di Michelangelo». «Certo!», esclamarono tutti e tre i Vespucci, e andarono a mangiare.
 
-
-## Capitolo quarantadue (42): VITA DI MICHELANGELO (FINE)
+# Capitolo quarantadue (42): VITA DI MICHELANGELO (FINE)
 
 Dopo pranzo, i quattro amici decisero di andare alla chiesa di San Pietro in Vincoli, per vedere il 'Mosè' di Michelangelo. E mentre ci si recavano, Bruno finì di raccontare la vita dell'artista.
 
@@ -2107,8 +2009,7 @@ Ma questa volta, almeno, la morale più severa non poteva lagnarsi: lì non c'er
 
 E finalmente, un giorno di febbraio del 1564, la morte, a novant'anni, venne a liberare quell'anima tormentata da un corpo che sempre più le pesava. Quell'uomo, a cui i re, i papi, i grandi della terra parlavano col cappello in mano e col più gran rispetto, quell'uomo con cui amavano trattenersi a lungo i più colti personaggi del suo tempo, e che dappertutto fu ricevuto come un principe, l'ultimo dei grandi geni del Rinascimento, morì solo come aveva vissuto. La sua ultima preghiera fu di poter tornare, morto, nella sua amata Firenze. E lì riposa oggi, nella basilica di Santa Croce ...».
 
-
-## Capitolo quarantatré (43): FIRENZE
+# Capitolo quarantatré (43): FIRENZE
 
 Una mattina, qualche giorno dopo la visita a San Pietro e al Vaticano, Vespucci dichiarò: «Domani proseguiamo per il nord! Lei, Bruno, accompagnerà Dora e Joy a Firenze e da lì a Venezia, mentre io giro un po' per conto mio per l'Italia centrale, dove devo fare delle indagini sul passaggio di Annibale. Siamo d'accordo?». «Va bene», rispose Bruno, «per quanto mi riguarda, sono d'accordo». «Anche noi», dissero Joy e sua madre. Così fu deciso che sarebbero partiti il giorno dopo, col primo rapido per Firenze. Da Firenze, Vespucci sarebbe tornato indietro fino al lago Trasimeno, prima di proseguire verso nord, andando, come aveva detto, alla ricerca di nuove tracce del passaggio del suo caro Annibale. Infatti, anche se gli esperti non avevano potuto convincere definitivamente Vespucci che il famoso anello era recente, tuttavia esso non si poteva più considerare come una traccia sicura.
 
@@ -2150,8 +2051,7 @@ Ma dopo la morte di Lorenzo, nel 1492, l'anno in cui Cristoforo Colombo scopre l
 
 E adesso, scendiamo di nuovo in città, e andiamo a vedere da vicino Santa Maria del Fiore, cioè il Duomo».
 
-
-## Capitolo quarantaquattro (44): ARRIVO A VENEZIA
+# Capitolo quarantaquattro (44): ARRIVO A VENEZIA
 
 Dopo che Annibale fu partito da Firenze con mille raccomandazioni della moglie e della figlia, che non avevano dimenticato il terribile ritorno da Barletta a Napoli, Bruno e le due donne decisero di andare direttamente a Venezia. E così, come disse ridendo Bruno, un bel pomeriggio essi fecero la loro entrata trionfale in quella meravigliosa città, che non per nulla si chiama tuttora 'la Regina dell'Adriatico'.
 
@@ -2181,8 +2081,7 @@ Così parlando, o piuttosto ascoltando il loro cicerone, i tre amici erano arriv
 
 I quattro si alzarono e fecero come aveva proposto Manin.
 
-
-## Capitolo quarantacinque (45): LEGGENDE E TRADIZIONI VENEZIANE
+# Capitolo quarantacinque (45): LEGGENDE E TRADIZIONI VENEZIANE
 
 «Una delle più antiche leggende che raccontavano i primi abitanti dell'arcipelago, e specialmente di Rialto», cominciò Manin, «narrava come San Marco arrivò in Italia. Il Santo, che veniva da Alessandria d'Egitto, fu sorpreso da una violentissima tempesta che lo costrinse ad approdare nell'isola dove oggi si trova la chiesa di San Francesco della Vigna. Esausto, si lasciò cadere sulla riva privo di forze, e mentre dormiva ebbe un sogno. Sognò un angelo che lo salutava dicendogli: 'Pace a te, Marco, evangelista mio', e che lo riconfortava annunciandogli che un giorno il suo corpo avrebbe trovato nelle isole di Rialto una degna sepoltura e la venerazione della gente cristiana. Passarono i secoli. Un bel giorno, Rustico di Torcello e Buono di Malamocco, due mercanti arrivati ad Alessandria con un veliero veneziano, appresero che il corpo di San Marco si trovava in quella città. Allora ai due mercanti venne la coraggiosa idea di portare la salma del Santo a Venezia. Compito assai difficile, poiché il sepolcro era custodito giorno e notte dagli egiziani, che avevano anche loro una grande venerazione per il Santo, benché per ragioni diverse da quelle dei cristiani.
 
@@ -2238,8 +2137,7 @@ Quando i veneziani videro quanto erano lievi i danni circostanti, esclamarono: '
 
 «Già», concluse Dorabel, e nessuno seppe mai cosa aveva voluto dire con quella parola, perché Manin, dopo un breve silenzio, vedendo che Dorabel non continuava, disse: «Bè, e adesso, diciamoci arrivederci e buona notte!». «Buona notte! e mille grazie!», risposero Joy e Dorabel, e Bruno domandò: «Ci vediamo domani?». «Con piacere, se ne hanno voglia», disse Manin, e dopo essersi messi d'accordo sull'ora i quattro si separarono.
 
-
-## Capitolo quarantasei (46): LA SERENISSIMA
+# Capitolo quarantasei (46): LA SERENISSIMA
 
 La mattina seguente, dopo i soliti saluti, Manin e i tre amici lasciarono l'albergo e si avviarono lungo la Riva degli Schiavoni verso la Piazzetta.
 
@@ -2295,8 +2193,7 @@ Mentre Bruno e Dorabel la fotografavano, uno con la macchina fotografica, l'altr
 
 «Ma scusino, non vorrei mica imporre Loro la mia presenza tutto il santo giorno! Finirebbero col mandarmi al diavolo!». «Ma s'immagini!», esclamò Joy col suo più gentile sorriso, «Lei è una persona preziosissima! Dove troveremmo un cicerone simile? No, caro signor Manin, Lei adesso aspetta un momentino quaggiù assieme a Bruno, mentre io e la mamma andiamo su a lavarci un po', e poi andiamo tutti quanti in un ristorante, come ci eravamo messi d'accordo». «Va bene, ma solo a condizione che Loro siano ospiti miei!». «Ma ...», cominciò Dorabel. «È una condizione assoluta!», la interruppe Manin, «o Loro accettano di essere invitati da me, o io me ne vado!». «Che tiranno!», disse Joy ridendo, e Dorabel decise: «Va bene, per questa volta ci arrendiamo. Vieni, Joy! Torniamo fra cinque minuti». «Non abbiamo mica fretta, signora! Faccia con comodo! Noi intanto fumiamo una sigaretta e facciamo quattro passi davanti all'albergo». Le due donne salirono in camera, e un quarto d'ora più tardi tutti e quattro se ne andarono a pranzare.
 
-
-## Capitolo quarantasette (47): ADDIO, VENEZIA!
+# Capitolo quarantasette (47): ADDIO, VENEZIA!
 
 Bruno, Dorabel e Joy si trattennero a Venezia per più di una settimana. Il penultimo giorno arrivò anche Annibale, e così tutti e quattro lasciarono - a malincuore - la Regina dell'Adriatico per recarsi a Milano, da dove dovevano proseguire verso le Alpi.
 
@@ -2349,8 +2246,7 @@ La vera ragione per cui Dorabel aveva tagliato corto era che, un momento prima, 
 
 Poco dopo appariva anche Bruno. Come sempre, cercava un'occasione di parlare a Joy in disparte. Continuando a non riuscirci, affrettò il più possibile la partenza per Torino, sperando che lì, almeno, l'occasione si sarebbe infine presentata.
 
-
-## Capitolo quarantotto (48): LE ALPI
+# Capitolo quarantotto (48): LE ALPI
 
 Erano arrivati a Torino nella tarda mattinata ed erano subito usciti per fare, rapidamente, una visita iniziale della città. Poi, dopo pranzo, si erano riuniti nel salone dell'albergo perché Vespucci voleva preparare l'ultima e decisiva tappa del suo giro d'Italia.
 
@@ -2390,8 +2286,7 @@ Fu solo allora che si accorsero che l'aria non aveva più la limpidezza di prima
 
 Ma dopo mezz'ora appena di discesa, sentirono un cupo rumore che venendo dalle Alpi francesi saliva verso le vette, svegliando gli echi delle vallate. I tre alpinisti si fermarono. Bruno trattenne il respiro, poi disse con voce sommessa: «Capperi! Purché il tempo non si guasti sul serio. Allora sì che sarebbe un bel guaio!». Nessuno gli rispose, e i tre iniziarono la parte più ripida della discesa. Vespucci non osava guardare gli altri due: il pover'uomo aveva la coscienza piena di rimorsi, e andava ripetendosi che se ora accadeva qualcosa sarebbe stata colpa sua e di nessun altro, ché se lui non fosse stato tanto cocciuto e tanto poco prudente non si sarebbero trovati in quella situazione, e così via. La sola persona che aveva conservato la sua calma abituale era Joy. Essa aveva completa fiducia in Bruno, e finché egli era vicino a lei, non temeva nulla.
 
-
-## Capitolo quarantanove (49): LA DICHIARAZIONE MANCATA
+# Capitolo quarantanove (49): LA DICHIARAZIONE MANCATA
 
 Aspettarono per una mezz'ora che la nebbia si dileguasse, ma questa, invece di dileguarsi, diventò ancora più fitta e densa. I tre adesso stentavano a vedersi se non si tenevano quasi a portata di mano l'uno dell'altro. Vespucci cominciò a lamentarsi: «Ahi! poveri noi! E ora come facciamo a cavarci da questo pasticcio? Se la nebbia ci costringe a passare la notte quassù in montagna, stiamo freschi!».
 
@@ -2425,8 +2320,7 @@ Passò in quel modo una lunga, lunghissima ora piena di ansia. I due giovani ave
 
 Bruno e Joy si guardarono stupefatti e un po' ansiosi, poi guardarono Vespucci. Questi, fermata la macchina, spento il motore e tirata la leva del freno, si voltò verso di loro, e si mise a ridere più di prima. I due giovani continuavano a guardarlo con certi occhi che sembravano punti interrogativi.
 
-
-## Capitolo cinquanta (50): NON TUTTO È BÈNE QUEL CHE FINISCE BÈNE
+# Capitolo cinquanta (50): NON TUTTO È BÈNE QUEL CHE FINISCE BÈNE
 
 «Lo ripeto», disse Vespucci quando si fu calmato, «sono un idiota! Figuratevi che quella chiamata era di Dorabel, che mi telefonava per confessarmi di non essere riuscita a trovare la mia preziosa valigetta nera. Diceva di averla cercata come una matta per tutto il giorno, ma senza successo. Devo dirvi che, non osando portarmela dietro quassù in montagna, prima di partire - e non senza esitazione - l'avevo affidata a Dorabel. Perciò quando essa mi ha telefonato per dirmi che la valigetta era scomparsa, è stato come se qualcuno mi avesse dato un pugno sulla testa. Ho visto rosso, o più esattamente non ho visto più nulla, perché è stato come se avessi perso la ragione. Quando sono ritornato in me, ho deciso di agire in modo fulmineo, di precipitarmi a Torino e di lanciarmi sulle tracce dei ladri. Ecco il motivo della nostra partenza precipitosa da Cesana e del tono un po' aspro in cui ti ho parlato, povera Joy. Ma credi, ero proprio fuori di me!». «Va bene, ma ...», disse Bruno sempre senza comprendere. «Perché mi sono fermato ridendo e mi sono dato dell'imbecille? Eh! perché tutt'a un tratto mi sono rammentato che, all'ultimo momento, avevo messo la valigetta in fondo al mio sacco da montagna. Quando mi aveva telefonato Dora, io me ne ero completamente dimenticato. Adesso però, scusatemi tanto, voglio verificare se non sbaglio di nuovo. Esco un momento ...».
 
